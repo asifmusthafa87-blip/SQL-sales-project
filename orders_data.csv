@@ -1,0 +1,1001 @@
+OrderID,CustomerID,Product,Category,Quantity,UnitPrice,Amount,PaymentMethod,OrderDate,OrderStatus
+50001,1056,Headphones,Electronics,1,2206.99,2206.99,UPI,2025-04-23,Delivered
+50002,1096,Smartphone,Electronics,4,17831.33,71325.32,UPI,2026-01-20,Delivered
+50003,1090,T-Shirt,Fashion,2,1561.87,3123.74,Net Banking,2026-03-15,Delivered
+50004,1038,Office Chair,Furniture,3,8148.08,24444.24,Cash on Delivery,2025-07-17,Cancelled
+50005,1097,Water Bottle,Home,3,435.43,1306.29,UPI,2025-05-04,Delivered
+50006,1020,Mouse,Accessories,4,506.02,2024.08,Net Banking,2026-02-07,Delivered
+50007,1096,Headphones,Electronics,3,2740.17,8220.51,Net Banking,2026-05-04,Delivered
+50008,1001,Office Chair,Furniture,4,11730.77,46923.08,Debit Card,2026-04-18,Delivered
+50009,1099,Backpack,Accessories,3,4070.69,12212.07,Net Banking,2025-05-24,Delivered
+50010,1002,Desk,Furniture,4,16063.36,64253.44,UPI,2025-10-31,Cancelled
+50011,1009,Coffee Maker,Home,1,11053.97,11053.97,UPI,2025-04-09,Delivered
+50012,1033,Headphones,Electronics,4,7232.19,28928.76,Net Banking,2026-08-10,Delivered
+50013,1084,Office Chair,Furniture,4,16681.2,66724.8,Debit Card,2025-04-22,Cancelled
+50014,1018,Desk,Furniture,3,24499.61,73498.83,Credit Card,2025-06-12,Shipped
+50015,1033,Desk,Furniture,4,19531.41,78125.64,Cash on Delivery,2026-05-19,Returned
+50016,1048,Headphones,Electronics,1,3294.81,3294.81,Net Banking,2026-04-15,Returned
+50017,1051,Mouse,Accessories,2,1933.66,3867.32,Debit Card,2025-01-27,Delivered
+50018,1064,Keyboard,Accessories,2,3509.43,7018.86,UPI,2026-03-29,Delivered
+50019,1035,Running Shoes,Fashion,4,3965.41,15861.64,UPI,2026-05-27,Delivered
+50020,1046,Coffee Maker,Home,4,6964.47,27857.88,Cash on Delivery,2026-06-02,Delivered
+50021,1093,Coffee Maker,Home,1,11554.18,11554.18,UPI,2025-10-29,Shipped
+50022,1063,Jeans,Fashion,3,3944.93,11834.79,Cash on Delivery,2025-06-10,Delivered
+50023,1054,Smartphone,Electronics,1,36708.03,36708.03,Credit Card,2025-11-19,Cancelled
+50024,1086,Office Chair,Furniture,2,12995.09,25990.18,Credit Card,2025-06-04,Delivered
+50025,1033,Smartphone,Electronics,2,55742.27,111484.54,UPI,2025-09-03,Returned
+50026,1099,Running Shoes,Fashion,2,7665.53,15331.06,Credit Card,2026-02-12,Shipped
+50027,1036,Coffee Maker,Home,2,2549.26,5098.52,Cash on Delivery,2025-01-20,Delivered
+50028,1014,Office Chair,Furniture,4,10158.19,40632.76,Net Banking,2026-04-16,Returned
+50029,1087,Coffee Maker,Home,2,3392.83,6785.66,Debit Card,2026-07-29,Cancelled
+50030,1086,Running Shoes,Fashion,2,6135.83,12271.66,UPI,2025-02-23,Delivered
+50031,1053,Coffee Maker,Home,1,7461.31,7461.31,Net Banking,2025-01-05,Returned
+50032,1094,Monitor,Electronics,2,10343.72,20687.44,Debit Card,2025-09-26,Delivered
+50033,1017,Coffee Maker,Home,2,5568.09,11136.18,Debit Card,2026-08-27,Delivered
+50034,1062,Backpack,Accessories,2,1088.73,2177.46,UPI,2025-02-27,Delivered
+50035,1048,Laptop,Electronics,3,55009.72,165029.16,UPI,2026-05-03,Shipped
+50036,1064,Keyboard,Accessories,1,4810.43,4810.43,Cash on Delivery,2025-09-04,Delivered
+50037,1086,Coffee Maker,Home,2,5881.74,11763.48,UPI,2025-10-12,Cancelled
+50038,1094,Coffee Maker,Home,1,3394.49,3394.49,Net Banking,2026-03-29,Delivered
+50039,1039,Table Lamp,Home,2,2373.17,4746.34,Net Banking,2025-10-16,Cancelled
+50040,1010,T-Shirt,Fashion,1,1297.01,1297.01,Cash on Delivery,2025-04-10,Delivered
+50041,1019,Monitor,Electronics,3,9397.92,28193.76,Credit Card,2026-08-31,Delivered
+50042,1016,Office Chair,Furniture,1,13891.53,13891.53,Credit Card,2026-05-12,Delivered
+50043,1050,Water Bottle,Home,4,1163.21,4652.84,Debit Card,2026-01-15,Delivered
+50044,1012,Laptop,Electronics,1,66824.67,66824.67,Debit Card,2026-07-31,Delivered
+50045,1029,Office Chair,Furniture,2,7686.9,15373.8,Cash on Delivery,2025-01-12,Returned
+50046,1035,T-Shirt,Fashion,2,577.93,1155.86,UPI,2025-03-31,Shipped
+50047,1034,Table Lamp,Home,2,874.47,1748.94,Debit Card,2025-07-15,Delivered
+50048,1029,Keyboard,Accessories,2,3441.56,6883.12,Net Banking,2025-10-04,Shipped
+50049,1073,Desk,Furniture,4,9371.35,37485.4,Debit Card,2025-04-09,Delivered
+50050,1024,Smartphone,Electronics,1,57702.71,57702.71,Cash on Delivery,2026-01-04,Returned
+50051,1030,Running Shoes,Fashion,3,7281.8,21845.4,UPI,2025-03-03,Delivered
+50052,1019,Desk,Furniture,2,11655.07,23310.14,UPI,2026-01-31,Shipped
+50053,1071,Desk,Furniture,3,7734.45,23203.35,Net Banking,2026-01-19,Delivered
+50054,1069,Headphones,Electronics,2,5496.49,10992.98,Debit Card,2026-01-31,Delivered
+50055,1053,Monitor,Electronics,3,14530.93,43592.79,UPI,2025-02-08,Shipped
+50056,1014,Keyboard,Accessories,2,4891.84,9783.68,Credit Card,2025-05-13,Delivered
+50057,1018,Backpack,Accessories,1,2228.2,2228.2,Net Banking,2025-01-09,Delivered
+50058,1007,Table Lamp,Home,4,3573.98,14295.92,Cash on Delivery,2025-06-17,Delivered
+50059,1066,Desk,Furniture,2,22946.04,45892.08,Cash on Delivery,2025-01-29,Shipped
+50060,1065,Mouse,Accessories,3,1911.39,5734.17,Net Banking,2026-05-26,Returned
+50061,1070,Desk,Furniture,1,20314.19,20314.19,Net Banking,2026-02-19,Delivered
+50062,1091,Running Shoes,Fashion,4,5908.83,23635.32,Credit Card,2026-06-15,Returned
+50063,1092,T-Shirt,Fashion,3,1007.36,3022.08,Credit Card,2026-04-21,Shipped
+50064,1003,Jeans,Fashion,1,3283.79,3283.79,Cash on Delivery,2025-12-14,Cancelled
+50065,1025,Desk,Furniture,3,15076.58,45229.74,UPI,2025-04-27,Cancelled
+50066,1045,Table Lamp,Home,4,3929.28,15717.12,Cash on Delivery,2025-05-29,Cancelled
+50067,1036,Keyboard,Accessories,3,4660.29,13980.87,Debit Card,2026-06-16,Delivered
+50068,1014,Smartphone,Electronics,3,49616.93,148850.79,UPI,2026-01-08,Cancelled
+50069,1057,Mouse,Accessories,3,2743.01,8229.03,Debit Card,2025-01-12,Delivered
+50070,1028,Office Chair,Furniture,2,10923.54,21847.08,Cash on Delivery,2025-01-08,Delivered
+50071,1058,Coffee Maker,Home,4,6905.13,27620.52,Net Banking,2025-06-27,Delivered
+50072,1064,Coffee Maker,Home,1,11756.75,11756.75,Debit Card,2026-05-17,Returned
+50073,1084,Laptop,Electronics,1,57381.1,57381.1,Cash on Delivery,2026-07-12,Delivered
+50074,1069,Running Shoes,Fashion,2,8648.6,17297.2,UPI,2026-03-26,Delivered
+50075,1005,Office Chair,Furniture,2,16258.83,32517.66,UPI,2026-01-09,Delivered
+50076,1011,Smartphone,Electronics,4,69190.73,276762.92,Cash on Delivery,2025-10-09,Returned
+50077,1049,Desk,Furniture,2,21754.12,43508.24,Cash on Delivery,2025-04-15,Delivered
+50078,1055,Jeans,Fashion,1,1238.28,1238.28,Net Banking,2026-03-13,Returned
+50079,1074,Keyboard,Accessories,1,4768.02,4768.02,Debit Card,2025-05-25,Shipped
+50080,1051,T-Shirt,Fashion,1,758.32,758.32,Cash on Delivery,2026-03-22,Delivered
+50081,1092,Laptop,Electronics,4,69725.13,278900.52,Credit Card,2025-09-07,Delivered
+50082,1050,Mouse,Accessories,2,2561.57,5123.14,Net Banking,2025-02-23,Delivered
+50083,1057,Keyboard,Accessories,2,4481.95,8963.9,UPI,2025-10-30,Returned
+50084,1066,Jeans,Fashion,1,2936.87,2936.87,Debit Card,2026-03-11,Returned
+50085,1038,Mouse,Accessories,4,437.82,1751.28,Credit Card,2025-04-08,Delivered
+50086,1063,T-Shirt,Fashion,3,1374.95,4124.85,Credit Card,2025-11-04,Delivered
+50087,1030,Mouse,Accessories,1,2437.5,2437.5,Credit Card,2026-07-17,Delivered
+50088,1056,Keyboard,Accessories,1,1417.71,1417.71,UPI,2025-11-26,Delivered
+50089,1034,Coffee Maker,Home,4,6861.79,27447.16,Cash on Delivery,2026-03-26,Shipped
+50090,1075,T-Shirt,Fashion,3,1659.3,4977.9,Debit Card,2025-04-21,Delivered
+50091,1075,Backpack,Accessories,3,3046.68,9140.04,Net Banking,2025-12-26,Delivered
+50092,1067,Office Chair,Furniture,1,16658.25,16658.25,Debit Card,2025-04-03,Delivered
+50093,1021,Running Shoes,Fashion,2,3566.94,7133.88,Cash on Delivery,2026-04-11,Delivered
+50094,1070,Table Lamp,Home,1,901.77,901.77,UPI,2025-08-21,Delivered
+50095,1078,Table Lamp,Home,2,1965.66,3931.32,Credit Card,2025-03-14,Delivered
+50096,1056,Desk,Furniture,3,17930.11,53790.33,Debit Card,2025-02-17,Shipped
+50097,1008,Laptop,Electronics,2,79732.04,159464.08,UPI,2025-09-10,Delivered
+50098,1086,Jeans,Fashion,3,2237.32,6711.96,Credit Card,2025-01-28,Returned
+50099,1026,T-Shirt,Fashion,4,1941.03,7764.12,Debit Card,2025-11-08,Delivered
+50100,1018,Backpack,Accessories,3,4133.22,12399.66,Credit Card,2025-01-15,Delivered
+50101,1039,Backpack,Accessories,1,1637.99,1637.99,UPI,2025-09-30,Returned
+50102,1025,Mouse,Accessories,2,1791.87,3583.74,UPI,2026-06-09,Delivered
+50103,1018,Desk,Furniture,4,12746.98,50987.92,Net Banking,2025-04-21,Cancelled
+50104,1083,Smartphone,Electronics,3,55999.17,167997.51,Credit Card,2026-03-01,Shipped
+50105,1098,Mouse,Accessories,4,2079.38,8317.52,Debit Card,2025-11-11,Shipped
+50106,1053,Mouse,Accessories,1,2827.6,2827.6,Cash on Delivery,2026-08-05,Returned
+50107,1062,Monitor,Electronics,2,13850.74,27701.48,UPI,2025-08-31,Returned
+50108,1095,Office Chair,Furniture,1,17770.92,17770.92,Credit Card,2026-04-13,Delivered
+50109,1094,Water Bottle,Home,4,307.95,1231.8,Debit Card,2026-07-28,Delivered
+50110,1026,Smartphone,Electronics,3,44427.02,133281.06,Debit Card,2025-06-22,Delivered
+50111,1068,Keyboard,Accessories,2,4865.58,9731.16,Debit Card,2025-08-13,Delivered
+50112,1090,Laptop,Electronics,4,49593.47,198373.88,Cash on Delivery,2025-05-19,Returned
+50113,1033,Monitor,Electronics,1,22847.33,22847.33,Credit Card,2025-01-10,Shipped
+50114,1013,Backpack,Accessories,2,4464.86,8929.72,Credit Card,2026-08-19,Delivered
+50115,1009,Jeans,Fashion,1,1207.59,1207.59,Debit Card,2026-07-04,Returned
+50116,1069,Headphones,Electronics,2,1925.55,3851.1,Net Banking,2025-08-24,Delivered
+50117,1009,T-Shirt,Fashion,1,1961.73,1961.73,Credit Card,2026-08-11,Delivered
+50118,1022,Headphones,Electronics,1,6239.62,6239.62,Net Banking,2025-12-15,Delivered
+50119,1030,Desk,Furniture,1,9830.92,9830.92,Debit Card,2025-06-14,Shipped
+50120,1062,Headphones,Electronics,3,5509.56,16528.68,Net Banking,2026-08-24,Shipped
+50121,1072,Table Lamp,Home,1,2985.54,2985.54,Debit Card,2026-02-26,Delivered
+50122,1025,Backpack,Accessories,3,2759.52,8278.56,UPI,2025-08-13,Returned
+50123,1051,Backpack,Accessories,2,2902.44,5804.88,Debit Card,2025-07-17,Cancelled
+50124,1042,Headphones,Electronics,3,6167.73,18503.19,Net Banking,2025-01-15,Returned
+50125,1027,Running Shoes,Fashion,1,5734.23,5734.23,Net Banking,2025-06-06,Cancelled
+50126,1027,Desk,Furniture,1,19432.63,19432.63,UPI,2025-09-11,Delivered
+50127,1074,Mouse,Accessories,2,2382.39,4764.78,UPI,2025-04-28,Cancelled
+50128,1088,Running Shoes,Fashion,3,4651.75,13955.25,Net Banking,2025-01-15,Shipped
+50129,1068,Office Chair,Furniture,1,11322.65,11322.65,Net Banking,2025-05-10,Delivered
+50130,1036,Jeans,Fashion,3,3143.06,9429.18,Credit Card,2025-10-10,Shipped
+50131,1038,Monitor,Electronics,3,33935.94,101807.82,Credit Card,2025-10-29,Delivered
+50132,1062,Coffee Maker,Home,2,8069.18,16138.36,Credit Card,2026-04-05,Delivered
+50133,1037,Monitor,Electronics,4,27112.92,108451.68,Credit Card,2026-08-27,Returned
+50134,1029,Table Lamp,Home,1,2157.22,2157.22,UPI,2026-02-11,Delivered
+50135,1036,T-Shirt,Fashion,1,2469.68,2469.68,UPI,2025-01-01,Returned
+50136,1015,Mouse,Accessories,3,991.23,2973.69,Cash on Delivery,2026-03-07,Delivered
+50137,1057,Keyboard,Accessories,1,1663.44,1663.44,Cash on Delivery,2026-07-29,Delivered
+50138,1002,Desk,Furniture,2,23477.26,46954.52,Credit Card,2026-04-20,Delivered
+50139,1059,Water Bottle,Home,1,1180.6,1180.6,Net Banking,2025-06-28,Cancelled
+50140,1070,Office Chair,Furniture,1,11478.78,11478.78,Cash on Delivery,2025-06-10,Delivered
+50141,1026,Running Shoes,Fashion,3,3943.11,11829.33,Net Banking,2026-04-14,Delivered
+50142,1049,Backpack,Accessories,1,4363.75,4363.75,Net Banking,2025-12-08,Delivered
+50143,1071,Jeans,Fashion,1,1716.5,1716.5,UPI,2025-05-21,Cancelled
+50144,1083,Backpack,Accessories,3,1734.67,5204.01,Cash on Delivery,2025-11-01,Shipped
+50145,1019,Running Shoes,Fashion,2,7855.95,15711.9,Credit Card,2026-08-13,Delivered
+50146,1092,Jeans,Fashion,2,2668.29,5336.58,UPI,2025-04-24,Cancelled
+50147,1001,Mouse,Accessories,3,803.62,2410.86,Cash on Delivery,2025-02-24,Returned
+50148,1083,Headphones,Electronics,4,3051.65,12206.6,Credit Card,2026-01-15,Delivered
+50149,1050,Backpack,Accessories,3,1546.53,4639.59,Cash on Delivery,2025-01-08,Delivered
+50150,1087,Desk,Furniture,3,10823.88,32471.64,Debit Card,2025-11-24,Cancelled
+50151,1051,Desk,Furniture,3,16819.43,50458.29,UPI,2026-08-27,Returned
+50152,1088,Office Chair,Furniture,2,15469.09,30938.18,Debit Card,2026-03-28,Delivered
+50153,1095,Keyboard,Accessories,2,1660.93,3321.86,Credit Card,2025-01-07,Delivered
+50154,1019,Backpack,Accessories,1,1727.6,1727.6,Cash on Delivery,2026-07-02,Shipped
+50155,1047,Coffee Maker,Home,2,10980.38,21960.76,Cash on Delivery,2026-06-07,Delivered
+50156,1012,Jeans,Fashion,2,2216.57,4433.14,Net Banking,2025-09-18,Shipped
+50157,1098,Mouse,Accessories,4,1835.32,7341.28,Cash on Delivery,2026-05-15,Delivered
+50158,1074,Mouse,Accessories,4,764.29,3057.16,Debit Card,2025-05-08,Delivered
+50159,1009,Smartphone,Electronics,3,43185.17,129555.51,Credit Card,2025-08-25,Delivered
+50160,1004,Backpack,Accessories,1,1487.75,1487.75,Credit Card,2026-03-18,Shipped
+50161,1075,Running Shoes,Fashion,2,3906.15,7812.3,Credit Card,2025-05-08,Shipped
+50162,1034,Table Lamp,Home,4,2393.89,9575.56,UPI,2025-06-02,Cancelled
+50163,1086,Table Lamp,Home,4,1460.55,5842.2,Cash on Delivery,2025-01-27,Delivered
+50164,1098,Jeans,Fashion,2,3250.12,6500.24,Net Banking,2026-03-31,Delivered
+50165,1092,Running Shoes,Fashion,1,4931.39,4931.39,Credit Card,2026-07-12,Delivered
+50166,1051,Coffee Maker,Home,2,9511.32,19022.64,Cash on Delivery,2025-10-19,Delivered
+50167,1040,Table Lamp,Home,1,2045.75,2045.75,Debit Card,2026-05-27,Delivered
+50168,1099,Laptop,Electronics,3,56884.87,170654.61,Credit Card,2025-02-24,Returned
+50169,1056,Office Chair,Furniture,2,6755.02,13510.04,UPI,2026-07-02,Returned
+50170,1081,Monitor,Electronics,3,24472.03,73416.09,Debit Card,2025-12-31,Delivered
+50171,1073,Smartphone,Electronics,1,57400.17,57400.17,UPI,2025-10-23,Delivered
+50172,1042,Laptop,Electronics,1,73197.02,73197.02,UPI,2025-02-08,Delivered
+50173,1044,Headphones,Electronics,2,6636.03,13272.06,Debit Card,2026-04-23,Cancelled
+50174,1044,Smartphone,Electronics,4,34853.56,139414.24,Debit Card,2025-01-17,Delivered
+50175,1012,Desk,Furniture,3,15904.71,47714.13,Debit Card,2025-03-22,Returned
+50176,1072,Keyboard,Accessories,2,3476.37,6952.74,UPI,2026-04-11,Delivered
+50177,1026,Coffee Maker,Home,3,9085.16,27255.48,Credit Card,2025-01-16,Returned
+50178,1086,Laptop,Electronics,3,67232.26,201696.78,Credit Card,2026-01-26,Cancelled
+50179,1048,Jeans,Fashion,1,3246.87,3246.87,Credit Card,2026-04-22,Delivered
+50180,1099,Jeans,Fashion,2,1353.67,2707.34,Credit Card,2026-03-19,Delivered
+50181,1024,Backpack,Accessories,1,3275.59,3275.59,Debit Card,2025-07-07,Shipped
+50182,1040,Smartphone,Electronics,3,53295.88,159887.64,Credit Card,2025-07-02,Returned
+50183,1004,Coffee Maker,Home,3,5495.26,16485.78,Cash on Delivery,2026-02-01,Delivered
+50184,1066,Laptop,Electronics,4,62072.68,248290.72,Debit Card,2025-06-19,Delivered
+50185,1013,T-Shirt,Fashion,3,2249.4,6748.2,Credit Card,2026-02-20,Delivered
+50186,1029,Water Bottle,Home,3,314.23,942.69,UPI,2026-04-22,Cancelled
+50187,1056,Keyboard,Accessories,4,3435.52,13742.08,Net Banking,2025-08-27,Delivered
+50188,1084,Table Lamp,Home,2,2136.85,4273.7,Cash on Delivery,2026-07-31,Cancelled
+50189,1030,Laptop,Electronics,3,63692.43,191077.29,Credit Card,2025-11-20,Delivered
+50190,1065,T-Shirt,Fashion,1,584.19,584.19,Cash on Delivery,2026-08-08,Returned
+50191,1012,Laptop,Electronics,1,72185.89,72185.89,Debit Card,2025-03-02,Shipped
+50192,1056,Water Bottle,Home,4,926.37,3705.48,Debit Card,2025-03-03,Shipped
+50193,1004,Smartphone,Electronics,1,55884.41,55884.41,Debit Card,2026-08-07,Delivered
+50194,1074,Running Shoes,Fashion,3,3613.98,10841.94,Debit Card,2025-08-14,Delivered
+50195,1003,Table Lamp,Home,1,1396.6,1396.6,Cash on Delivery,2025-02-23,Returned
+50196,1020,Backpack,Accessories,1,2813.91,2813.91,Credit Card,2026-07-27,Delivered
+50197,1062,Table Lamp,Home,3,3226.36,9679.08,UPI,2025-08-04,Delivered
+50198,1089,Headphones,Electronics,2,5435.97,10871.94,UPI,2026-08-03,Cancelled
+50199,1056,Keyboard,Accessories,2,2721.21,5442.42,Debit Card,2026-06-25,Delivered
+50200,1042,Headphones,Electronics,1,6994.92,6994.92,UPI,2026-04-08,Delivered
+50201,1088,Keyboard,Accessories,3,1165.34,3496.02,Net Banking,2025-02-07,Delivered
+50202,1070,Keyboard,Accessories,4,2882.68,11530.72,Cash on Delivery,2025-11-12,Shipped
+50203,1040,Coffee Maker,Home,1,11919.02,11919.02,Cash on Delivery,2025-08-12,Cancelled
+50204,1056,Running Shoes,Fashion,3,7772.77,23318.31,Credit Card,2025-02-09,Delivered
+50205,1088,Running Shoes,Fashion,1,7137.37,7137.37,Debit Card,2025-12-02,Delivered
+50206,1041,Laptop,Electronics,3,79691.77,239075.31,Cash on Delivery,2025-12-29,Shipped
+50207,1063,Desk,Furniture,1,18922.67,18922.67,Debit Card,2026-02-26,Delivered
+50208,1058,Backpack,Accessories,1,4083.05,4083.05,UPI,2025-01-31,Returned
+50209,1053,Table Lamp,Home,2,3423.83,6847.66,Credit Card,2025-12-22,Delivered
+50210,1039,T-Shirt,Fashion,1,1514.94,1514.94,Credit Card,2025-08-12,Shipped
+50211,1017,T-Shirt,Fashion,3,2462.37,7387.11,Credit Card,2026-03-24,Shipped
+50212,1030,Headphones,Electronics,4,1927.47,7709.88,Credit Card,2025-08-21,Delivered
+50213,1094,Jeans,Fashion,4,2971.34,11885.36,Cash on Delivery,2025-10-05,Delivered
+50214,1068,Monitor,Electronics,4,29042.21,116168.84,Debit Card,2025-07-11,Delivered
+50215,1065,Coffee Maker,Home,2,9231.43,18462.86,Credit Card,2025-04-30,Delivered
+50216,1047,Smartphone,Electronics,2,69458.16,138916.32,Cash on Delivery,2025-08-15,Delivered
+50217,1011,Running Shoes,Fashion,4,2172.11,8688.44,UPI,2025-03-20,Delivered
+50218,1098,Water Bottle,Home,2,301.54,603.08,Credit Card,2025-10-12,Delivered
+50219,1039,Laptop,Electronics,3,63055.48,189166.44,Cash on Delivery,2025-06-06,Delivered
+50220,1078,Monitor,Electronics,4,11141.91,44567.64,Net Banking,2025-01-22,Delivered
+50221,1056,Water Bottle,Home,3,1726.3,5178.9,Net Banking,2025-01-21,Returned
+50222,1019,Keyboard,Accessories,3,4850.99,14552.97,UPI,2026-03-29,Delivered
+50223,1038,Water Bottle,Home,1,781.11,781.11,Credit Card,2025-06-12,Delivered
+50224,1015,Desk,Furniture,4,13002.0,52008.0,Net Banking,2025-07-27,Delivered
+50225,1017,Office Chair,Furniture,4,7411.83,29647.32,Cash on Delivery,2025-11-05,Returned
+50226,1071,Water Bottle,Home,2,1095.53,2191.06,Debit Card,2025-12-15,Delivered
+50227,1003,Keyboard,Accessories,4,4667.56,18670.24,Net Banking,2026-07-12,Returned
+50228,1017,Desk,Furniture,2,8228.86,16457.72,Net Banking,2026-06-05,Cancelled
+50229,1002,Desk,Furniture,4,7219.97,28879.88,Debit Card,2025-03-05,Shipped
+50230,1094,Laptop,Electronics,4,63583.94,254335.76,Credit Card,2026-01-01,Returned
+50231,1045,Jeans,Fashion,2,2016.66,4033.32,UPI,2025-04-12,Delivered
+50232,1088,Office Chair,Furniture,3,11246.59,33739.77,UPI,2026-02-05,Delivered
+50233,1080,Desk,Furniture,2,8707.42,17414.84,Net Banking,2025-08-30,Delivered
+50234,1077,Laptop,Electronics,2,66369.69,132739.38,UPI,2026-08-12,Delivered
+50235,1038,Table Lamp,Home,2,1830.7,3661.4,Credit Card,2025-05-02,Delivered
+50236,1044,Jeans,Fashion,2,1315.31,2630.62,UPI,2025-11-13,Delivered
+50237,1073,Water Bottle,Home,2,1192.16,2384.32,UPI,2026-01-05,Delivered
+50238,1062,Office Chair,Furniture,4,14283.13,57132.52,Net Banking,2025-11-14,Returned
+50239,1084,Water Bottle,Home,3,420.17,1260.51,Net Banking,2026-01-25,Delivered
+50240,1041,Mouse,Accessories,2,1650.35,3300.7,Net Banking,2025-01-14,Delivered
+50241,1012,Smartphone,Electronics,2,47630.33,95260.66,Cash on Delivery,2026-06-21,Shipped
+50242,1100,Headphones,Electronics,2,3437.32,6874.64,Cash on Delivery,2025-11-05,Returned
+50243,1018,Headphones,Electronics,4,4976.47,19905.88,Debit Card,2026-07-03,Delivered
+50244,1035,Water Bottle,Home,3,422.29,1266.87,Cash on Delivery,2025-04-03,Cancelled
+50245,1076,Jeans,Fashion,3,1921.51,5764.53,UPI,2025-06-08,Delivered
+50246,1004,Running Shoes,Fashion,4,4978.45,19913.8,Net Banking,2025-12-30,Cancelled
+50247,1049,Monitor,Electronics,4,10042.84,40171.36,Debit Card,2026-08-31,Delivered
+50248,1100,Monitor,Electronics,2,27856.7,55713.4,Credit Card,2025-12-01,Delivered
+50249,1058,Monitor,Electronics,2,26030.24,52060.48,Cash on Delivery,2025-09-25,Delivered
+50250,1015,Running Shoes,Fashion,2,6420.92,12841.84,UPI,2026-06-04,Delivered
+50251,1014,T-Shirt,Fashion,3,1765.08,5295.24,Credit Card,2026-01-10,Shipped
+50252,1062,Keyboard,Accessories,2,2867.57,5735.14,Net Banking,2026-01-16,Returned
+50253,1084,T-Shirt,Fashion,4,1658.83,6635.32,Credit Card,2025-05-25,Delivered
+50254,1035,Desk,Furniture,1,13581.87,13581.87,Cash on Delivery,2025-09-18,Returned
+50255,1036,Laptop,Electronics,4,68948.56,275794.24,Cash on Delivery,2025-10-30,Returned
+50256,1014,Water Bottle,Home,2,410.25,820.5,Credit Card,2026-08-28,Delivered
+50257,1005,Coffee Maker,Home,2,3884.69,7769.38,Net Banking,2026-05-28,Delivered
+50258,1037,Mouse,Accessories,4,1386.33,5545.32,Cash on Delivery,2025-07-23,Shipped
+50259,1056,Laptop,Electronics,1,73215.42,73215.42,Net Banking,2026-01-02,Returned
+50260,1020,Mouse,Accessories,4,1803.76,7215.04,Credit Card,2025-11-30,Delivered
+50261,1026,Desk,Furniture,3,10391.49,31174.47,Cash on Delivery,2025-01-01,Returned
+50262,1059,Headphones,Electronics,2,2424.07,4848.14,Cash on Delivery,2025-06-10,Delivered
+50263,1020,Headphones,Electronics,2,5879.81,11759.62,Cash on Delivery,2025-08-30,Delivered
+50264,1050,Water Bottle,Home,2,1727.72,3455.44,Cash on Delivery,2025-07-04,Returned
+50265,1050,Jeans,Fashion,4,2643.67,10574.68,Net Banking,2025-10-21,Delivered
+50266,1052,Backpack,Accessories,4,1464.5,5858.0,Credit Card,2026-01-10,Delivered
+50267,1029,Keyboard,Accessories,1,3869.48,3869.48,Cash on Delivery,2026-05-10,Cancelled
+50268,1090,Jeans,Fashion,2,3052.57,6105.14,Debit Card,2026-02-18,Delivered
+50269,1047,Smartphone,Electronics,1,60698.25,60698.25,UPI,2026-08-11,Delivered
+50270,1033,Office Chair,Furniture,1,13963.85,13963.85,UPI,2025-05-27,Returned
+50271,1090,T-Shirt,Fashion,1,1833.94,1833.94,Net Banking,2026-07-29,Delivered
+50272,1013,Laptop,Electronics,1,84733.48,84733.48,UPI,2026-08-12,Returned
+50273,1004,Desk,Furniture,3,22691.8,68075.4,Debit Card,2026-03-30,Delivered
+50274,1083,Smartphone,Electronics,1,58879.75,58879.75,Cash on Delivery,2025-11-27,Delivered
+50275,1089,Office Chair,Furniture,2,12078.36,24156.72,Cash on Delivery,2025-03-06,Delivered
+50276,1019,Table Lamp,Home,3,2603.0,7809.0,Net Banking,2026-08-28,Delivered
+50277,1035,Laptop,Electronics,1,66827.48,66827.48,Net Banking,2025-04-12,Delivered
+50278,1078,Water Bottle,Home,3,552.67,1658.01,Credit Card,2025-01-03,Shipped
+50279,1070,Table Lamp,Home,4,2461.06,9844.24,Net Banking,2025-08-09,Delivered
+50280,1048,Desk,Furniture,4,8830.85,35323.4,Cash on Delivery,2025-10-27,Delivered
+50281,1070,Jeans,Fashion,3,3341.67,10025.01,Credit Card,2025-12-30,Delivered
+50282,1080,Water Bottle,Home,1,1533.59,1533.59,Cash on Delivery,2025-05-04,Returned
+50283,1015,Desk,Furniture,4,23613.66,94454.64,Net Banking,2025-05-21,Cancelled
+50284,1068,Headphones,Electronics,2,2331.05,4662.1,Cash on Delivery,2026-07-18,Cancelled
+50285,1035,Water Bottle,Home,1,1504.54,1504.54,Credit Card,2026-02-24,Cancelled
+50286,1004,Smartphone,Electronics,2,29994.32,59988.64,Credit Card,2025-12-11,Cancelled
+50287,1074,Water Bottle,Home,3,1321.68,3965.04,Cash on Delivery,2025-06-08,Returned
+50288,1061,Jeans,Fashion,4,3421.54,13686.16,Credit Card,2025-02-05,Delivered
+50289,1001,Monitor,Electronics,2,29955.81,59911.62,Net Banking,2026-01-11,Shipped
+50290,1022,Table Lamp,Home,3,3844.49,11533.47,Cash on Delivery,2025-08-08,Delivered
+50291,1088,Table Lamp,Home,1,2869.14,2869.14,Credit Card,2026-08-07,Delivered
+50292,1050,Table Lamp,Home,3,3297.68,9893.04,Debit Card,2025-03-01,Returned
+50293,1036,Table Lamp,Home,1,1105.71,1105.71,Credit Card,2026-03-15,Delivered
+50294,1098,Keyboard,Accessories,3,1787.99,5363.97,UPI,2026-03-08,Shipped
+50295,1032,Jeans,Fashion,3,2899.86,8699.58,Debit Card,2026-08-13,Shipped
+50296,1002,Running Shoes,Fashion,1,5477.37,5477.37,Debit Card,2025-09-20,Shipped
+50297,1039,Smartphone,Electronics,3,39349.43,118048.29,UPI,2026-04-04,Returned
+50298,1068,Office Chair,Furniture,4,15643.19,62572.76,Credit Card,2025-04-12,Delivered
+50299,1097,Backpack,Accessories,1,1277.97,1277.97,Net Banking,2025-03-14,Delivered
+50300,1068,Water Bottle,Home,2,832.49,1664.98,Cash on Delivery,2026-07-15,Delivered
+50301,1027,Smartphone,Electronics,4,59019.61,236078.44,Cash on Delivery,2025-08-18,Delivered
+50302,1058,Headphones,Electronics,2,2769.64,5539.28,Debit Card,2025-12-08,Cancelled
+50303,1081,Smartphone,Electronics,3,35816.2,107448.6,Debit Card,2025-12-20,Returned
+50304,1044,T-Shirt,Fashion,4,620.28,2481.12,Credit Card,2026-07-02,Shipped
+50305,1055,Running Shoes,Fashion,1,6830.03,6830.03,Credit Card,2026-03-22,Cancelled
+50306,1017,Desk,Furniture,3,20367.1,61101.3,Net Banking,2026-05-30,Cancelled
+50307,1005,Running Shoes,Fashion,3,4795.21,14385.63,Net Banking,2025-09-05,Delivered
+50308,1084,Laptop,Electronics,1,71862.34,71862.34,Credit Card,2026-04-01,Returned
+50309,1038,Laptop,Electronics,1,78042.71,78042.71,Net Banking,2026-05-24,Cancelled
+50310,1066,Monitor,Electronics,1,14911.29,14911.29,UPI,2025-12-07,Delivered
+50311,1075,Water Bottle,Home,1,1130.7,1130.7,Debit Card,2025-06-29,Cancelled
+50312,1055,Backpack,Accessories,2,3102.08,6204.16,Debit Card,2026-02-10,Delivered
+50313,1012,Jeans,Fashion,2,2786.41,5572.82,UPI,2025-02-11,Cancelled
+50314,1088,Smartphone,Electronics,1,35934.28,35934.28,Credit Card,2026-04-07,Cancelled
+50315,1014,Headphones,Electronics,4,2641.48,10565.92,UPI,2026-02-03,Shipped
+50316,1035,Headphones,Electronics,2,2245.78,4491.56,Credit Card,2025-07-25,Delivered
+50317,1066,Smartphone,Electronics,4,66300.19,265200.76,UPI,2025-09-10,Cancelled
+50318,1065,Laptop,Electronics,4,69254.84,277019.36,Cash on Delivery,2026-03-12,Delivered
+50319,1013,Headphones,Electronics,1,6811.37,6811.37,Cash on Delivery,2026-04-27,Shipped
+50320,1068,Smartphone,Electronics,4,22434.15,89736.6,Cash on Delivery,2025-01-12,Delivered
+50321,1018,Running Shoes,Fashion,3,5542.99,16628.97,Cash on Delivery,2026-03-23,Cancelled
+50322,1060,Running Shoes,Fashion,3,6337.12,19011.36,Debit Card,2025-10-14,Delivered
+50323,1089,Keyboard,Accessories,3,1605.49,4816.47,Credit Card,2026-01-17,Delivered
+50324,1079,Smartphone,Electronics,1,49072.38,49072.38,UPI,2025-03-24,Delivered
+50325,1062,Headphones,Electronics,1,2025.42,2025.42,Debit Card,2025-09-20,Delivered
+50326,1040,Laptop,Electronics,4,70327.59,281310.36,UPI,2025-04-11,Returned
+50327,1036,Coffee Maker,Home,4,4150.65,16602.6,Net Banking,2026-02-26,Returned
+50328,1063,Smartphone,Electronics,3,58565.15,175695.45,Cash on Delivery,2026-04-28,Returned
+50329,1071,Water Bottle,Home,4,1022.45,4089.8,Cash on Delivery,2026-08-21,Shipped
+50330,1091,T-Shirt,Fashion,3,1332.31,3996.93,Cash on Delivery,2025-09-03,Cancelled
+50331,1058,Jeans,Fashion,1,3328.81,3328.81,Cash on Delivery,2025-03-06,Shipped
+50332,1085,Keyboard,Accessories,2,1813.05,3626.1,Cash on Delivery,2025-12-04,Shipped
+50333,1099,Running Shoes,Fashion,4,5414.98,21659.92,UPI,2026-01-30,Returned
+50334,1026,Keyboard,Accessories,4,1917.28,7669.12,Net Banking,2026-06-30,Delivered
+50335,1093,Coffee Maker,Home,2,7022.17,14044.34,Net Banking,2026-02-26,Delivered
+50336,1064,Keyboard,Accessories,2,4546.76,9093.52,UPI,2025-04-30,Delivered
+50337,1048,Desk,Furniture,1,21368.79,21368.79,Cash on Delivery,2025-04-07,Delivered
+50338,1021,Smartphone,Electronics,2,28918.21,57836.42,Net Banking,2025-07-19,Delivered
+50339,1088,Jeans,Fashion,1,1386.63,1386.63,Cash on Delivery,2026-04-12,Shipped
+50340,1008,Coffee Maker,Home,1,6711.09,6711.09,Cash on Delivery,2025-07-19,Delivered
+50341,1051,Backpack,Accessories,3,3306.62,9919.86,Debit Card,2025-01-17,Shipped
+50342,1031,Monitor,Electronics,1,19077.48,19077.48,Net Banking,2026-03-12,Returned
+50343,1051,Headphones,Electronics,3,6530.13,19590.39,Debit Card,2026-03-18,Shipped
+50344,1008,Keyboard,Accessories,2,4288.24,8576.48,Credit Card,2026-07-04,Returned
+50345,1025,Coffee Maker,Home,1,5306.73,5306.73,UPI,2026-04-08,Delivered
+50346,1068,Headphones,Electronics,1,2936.81,2936.81,UPI,2025-06-18,Delivered
+50347,1010,Table Lamp,Home,3,934.24,2802.72,Cash on Delivery,2026-05-03,Delivered
+50348,1095,Mouse,Accessories,1,1914.3,1914.3,Net Banking,2025-08-14,Delivered
+50349,1018,Table Lamp,Home,3,1154.59,3463.77,UPI,2026-05-03,Delivered
+50350,1022,T-Shirt,Fashion,4,1277.31,5109.24,Net Banking,2026-02-18,Delivered
+50351,1046,Keyboard,Accessories,4,1629.38,6517.52,UPI,2025-05-02,Cancelled
+50352,1047,Backpack,Accessories,3,3962.8,11888.4,Credit Card,2025-05-29,Shipped
+50353,1046,T-Shirt,Fashion,1,2456.79,2456.79,Net Banking,2025-07-22,Cancelled
+50354,1092,Mouse,Accessories,3,1100.26,3300.78,Cash on Delivery,2026-04-11,Delivered
+50355,1027,Running Shoes,Fashion,1,7081.86,7081.86,Credit Card,2026-08-30,Returned
+50356,1077,Headphones,Electronics,3,6916.78,20750.34,Debit Card,2026-02-25,Shipped
+50357,1019,Laptop,Electronics,4,69477.62,277910.48,Cash on Delivery,2025-01-30,Returned
+50358,1008,Coffee Maker,Home,3,10832.82,32498.46,Credit Card,2025-07-05,Delivered
+50359,1004,Coffee Maker,Home,1,10873.78,10873.78,Debit Card,2025-08-12,Delivered
+50360,1021,Smartphone,Electronics,3,32101.09,96303.27,Debit Card,2025-03-07,Delivered
+50361,1086,Running Shoes,Fashion,1,5879.59,5879.59,Credit Card,2026-08-25,Delivered
+50362,1014,Mouse,Accessories,4,2338.91,9355.64,UPI,2026-02-22,Shipped
+50363,1095,Desk,Furniture,4,12211.7,48846.8,Debit Card,2025-04-11,Delivered
+50364,1020,Monitor,Electronics,3,20663.88,61991.64,Credit Card,2026-06-20,Cancelled
+50365,1085,Headphones,Electronics,2,3862.37,7724.74,Cash on Delivery,2025-07-21,Cancelled
+50366,1045,T-Shirt,Fashion,4,862.64,3450.56,Net Banking,2025-09-30,Returned
+50367,1003,Backpack,Accessories,4,2785.38,11141.52,Cash on Delivery,2025-12-02,Delivered
+50368,1024,Backpack,Accessories,4,2962.31,11849.24,Credit Card,2026-08-17,Delivered
+50369,1049,Jeans,Fashion,4,3510.14,14040.56,Debit Card,2026-02-10,Shipped
+50370,1031,Coffee Maker,Home,2,11828.71,23657.42,Net Banking,2025-01-19,Shipped
+50371,1055,Monitor,Electronics,2,17533.01,35066.02,UPI,2025-05-26,Returned
+50372,1047,Monitor,Electronics,1,24553.86,24553.86,Debit Card,2025-04-28,Shipped
+50373,1020,Laptop,Electronics,1,70502.13,70502.13,Debit Card,2026-02-03,Cancelled
+50374,1009,Jeans,Fashion,2,3292.21,6584.42,Credit Card,2026-02-04,Shipped
+50375,1050,Desk,Furniture,4,12882.47,51529.88,Debit Card,2025-09-11,Cancelled
+50376,1051,Running Shoes,Fashion,2,5626.55,11253.1,Cash on Delivery,2026-03-02,Delivered
+50377,1093,T-Shirt,Fashion,2,2245.46,4490.92,Cash on Delivery,2025-02-18,Shipped
+50378,1070,Table Lamp,Home,4,2345.5,9382.0,Credit Card,2025-09-17,Cancelled
+50379,1001,Backpack,Accessories,3,2737.61,8212.83,UPI,2025-07-01,Cancelled
+50380,1031,Coffee Maker,Home,4,3785.86,15143.44,Net Banking,2026-07-02,Shipped
+50381,1030,T-Shirt,Fashion,4,614.11,2456.44,Net Banking,2025-06-12,Returned
+50382,1080,Coffee Maker,Home,2,4870.69,9741.38,Credit Card,2025-07-24,Cancelled
+50383,1056,Coffee Maker,Home,1,7131.93,7131.93,Debit Card,2026-08-19,Delivered
+50384,1068,Table Lamp,Home,3,1245.59,3736.77,Credit Card,2026-06-03,Cancelled
+50385,1075,Jeans,Fashion,3,1261.11,3783.33,Net Banking,2026-04-17,Returned
+50386,1014,Backpack,Accessories,1,1182.9,1182.9,UPI,2025-06-14,Delivered
+50387,1087,Keyboard,Accessories,2,1408.85,2817.7,Credit Card,2025-11-01,Delivered
+50388,1012,Headphones,Electronics,1,7639.84,7639.84,UPI,2026-03-21,Delivered
+50389,1071,Laptop,Electronics,2,73800.32,147600.64,UPI,2026-08-16,Shipped
+50390,1043,Running Shoes,Fashion,2,4827.85,9655.7,UPI,2026-02-27,Cancelled
+50391,1070,Laptop,Electronics,1,69516.01,69516.01,Credit Card,2026-07-31,Delivered
+50392,1057,Keyboard,Accessories,1,4771.93,4771.93,Credit Card,2025-04-08,Delivered
+50393,1088,Running Shoes,Fashion,3,5818.02,17454.06,Net Banking,2026-07-25,Delivered
+50394,1049,Headphones,Electronics,4,6599.13,26396.52,Cash on Delivery,2026-06-16,Delivered
+50395,1086,Jeans,Fashion,4,3318.9,13275.6,Cash on Delivery,2025-03-20,Cancelled
+50396,1040,Monitor,Electronics,4,15642.83,62571.32,Credit Card,2025-01-26,Delivered
+50397,1003,Jeans,Fashion,2,1382.57,2765.14,Net Banking,2025-04-07,Delivered
+50398,1052,Monitor,Electronics,3,11742.32,35226.96,UPI,2026-01-14,Delivered
+50399,1011,Water Bottle,Home,3,961.61,2884.83,Net Banking,2026-08-09,Delivered
+50400,1085,Coffee Maker,Home,1,7987.14,7987.14,UPI,2026-07-13,Returned
+50401,1060,T-Shirt,Fashion,4,1540.38,6161.52,Net Banking,2026-03-30,Delivered
+50402,1003,Smartphone,Electronics,3,48741.02,146223.06,Debit Card,2025-02-09,Cancelled
+50403,1008,Laptop,Electronics,4,53080.63,212322.52,Cash on Delivery,2025-09-17,Cancelled
+50404,1032,Mouse,Accessories,2,617.01,1234.02,UPI,2026-06-08,Delivered
+50405,1063,T-Shirt,Fashion,3,2434.25,7302.75,Cash on Delivery,2026-06-17,Cancelled
+50406,1095,Running Shoes,Fashion,2,3161.68,6323.36,Debit Card,2025-09-04,Delivered
+50407,1068,Keyboard,Accessories,1,1190.73,1190.73,UPI,2026-01-17,Cancelled
+50408,1093,Keyboard,Accessories,3,1587.13,4761.39,UPI,2026-01-07,Cancelled
+50409,1044,Smartphone,Electronics,2,54063.35,108126.7,UPI,2026-01-30,Delivered
+50410,1085,Jeans,Fashion,4,2485.94,9943.76,Credit Card,2025-05-11,Delivered
+50411,1021,Coffee Maker,Home,2,4150.74,8301.48,Net Banking,2025-08-06,Cancelled
+50412,1034,Laptop,Electronics,1,61804.75,61804.75,UPI,2025-11-03,Returned
+50413,1023,Smartphone,Electronics,2,48757.76,97515.52,UPI,2025-10-16,Delivered
+50414,1099,Running Shoes,Fashion,4,2744.41,10977.64,Net Banking,2025-02-16,Returned
+50415,1001,Mouse,Accessories,1,2103.73,2103.73,Debit Card,2026-05-31,Delivered
+50416,1063,Desk,Furniture,3,11800.9,35402.7,Cash on Delivery,2025-08-15,Delivered
+50417,1014,Keyboard,Accessories,1,3543.28,3543.28,Net Banking,2026-04-05,Delivered
+50418,1077,Backpack,Accessories,1,3759.57,3759.57,Credit Card,2025-04-25,Delivered
+50419,1059,Mouse,Accessories,3,400.49,1201.47,Debit Card,2025-12-20,Cancelled
+50420,1072,Mouse,Accessories,2,2647.87,5295.74,Debit Card,2026-06-26,Returned
+50421,1025,T-Shirt,Fashion,3,1345.1,4035.3,Credit Card,2025-03-24,Cancelled
+50422,1073,Headphones,Electronics,3,6326.94,18980.82,Net Banking,2025-06-22,Returned
+50423,1019,T-Shirt,Fashion,3,1618.37,4855.11,Net Banking,2026-02-02,Cancelled
+50424,1081,Keyboard,Accessories,1,1087.03,1087.03,UPI,2025-11-16,Delivered
+50425,1075,Office Chair,Furniture,4,8916.45,35665.8,Cash on Delivery,2025-11-30,Cancelled
+50426,1092,Desk,Furniture,4,7225.33,28901.32,Credit Card,2026-08-21,Delivered
+50427,1016,Office Chair,Furniture,3,13140.29,39420.87,Cash on Delivery,2025-03-03,Delivered
+50428,1064,T-Shirt,Fashion,4,1665.61,6662.44,Credit Card,2026-04-14,Returned
+50429,1067,Keyboard,Accessories,1,1859.69,1859.69,Net Banking,2025-07-20,Shipped
+50430,1098,Desk,Furniture,4,22502.48,90009.92,UPI,2025-01-08,Shipped
+50431,1054,Backpack,Accessories,3,1287.72,3863.16,Net Banking,2025-06-23,Returned
+50432,1052,Jeans,Fashion,1,2154.28,2154.28,Cash on Delivery,2026-02-10,Shipped
+50433,1029,Headphones,Electronics,2,5223.54,10447.08,Debit Card,2025-05-12,Returned
+50434,1022,Backpack,Accessories,4,1364.79,5459.16,Net Banking,2026-08-02,Cancelled
+50435,1091,Coffee Maker,Home,2,5079.9,10159.8,UPI,2026-08-07,Returned
+50436,1082,Mouse,Accessories,2,2717.85,5435.7,UPI,2026-07-27,Delivered
+50437,1083,Mouse,Accessories,2,2759.19,5518.38,Net Banking,2025-12-28,Delivered
+50438,1099,Desk,Furniture,1,14986.46,14986.46,Debit Card,2026-03-08,Shipped
+50439,1061,Monitor,Electronics,4,24362.55,97450.2,UPI,2025-10-29,Delivered
+50440,1097,T-Shirt,Fashion,4,573.44,2293.76,Credit Card,2025-12-07,Shipped
+50441,1054,Laptop,Electronics,4,65506.71,262026.84,UPI,2025-12-10,Shipped
+50442,1021,Laptop,Electronics,1,77728.27,77728.27,Debit Card,2026-07-25,Returned
+50443,1064,Backpack,Accessories,1,1103.84,1103.84,Debit Card,2026-05-09,Delivered
+50444,1045,Water Bottle,Home,1,1694.14,1694.14,UPI,2025-06-17,Delivered
+50445,1061,Headphones,Electronics,4,7199.36,28797.44,Cash on Delivery,2025-04-19,Delivered
+50446,1090,Running Shoes,Fashion,4,4077.09,16308.36,Net Banking,2025-09-07,Shipped
+50447,1087,Office Chair,Furniture,1,13273.22,13273.22,Cash on Delivery,2026-03-07,Returned
+50448,1018,Laptop,Electronics,3,79863.91,239591.73,Credit Card,2025-11-20,Cancelled
+50449,1019,Laptop,Electronics,3,71506.58,214519.74,Net Banking,2025-03-25,Delivered
+50450,1015,Laptop,Electronics,4,48207.2,192828.8,UPI,2025-04-15,Delivered
+50451,1010,Smartphone,Electronics,3,47651.34,142954.02,Credit Card,2026-07-17,Cancelled
+50452,1003,Desk,Furniture,1,8932.11,8932.11,Net Banking,2026-03-30,Delivered
+50453,1003,Keyboard,Accessories,2,3025.96,6051.92,Credit Card,2025-03-22,Delivered
+50454,1065,T-Shirt,Fashion,4,1090.08,4360.32,Cash on Delivery,2025-12-23,Shipped
+50455,1025,T-Shirt,Fashion,1,932.1,932.1,UPI,2025-10-21,Delivered
+50456,1036,Keyboard,Accessories,2,4377.73,8755.46,Debit Card,2026-03-05,Returned
+50457,1030,Desk,Furniture,1,22373.11,22373.11,Net Banking,2025-12-30,Delivered
+50458,1079,Headphones,Electronics,3,7031.42,21094.26,UPI,2025-03-04,Returned
+50459,1057,Office Chair,Furniture,3,12568.58,37705.74,Net Banking,2026-01-15,Delivered
+50460,1028,Office Chair,Furniture,3,11651.86,34955.58,Cash on Delivery,2025-01-07,Delivered
+50461,1047,Keyboard,Accessories,4,4000.01,16000.04,Net Banking,2025-07-21,Delivered
+50462,1095,Smartphone,Electronics,4,15369.07,61476.28,Debit Card,2025-05-06,Delivered
+50463,1069,Laptop,Electronics,1,72084.83,72084.83,Credit Card,2026-03-16,Delivered
+50464,1050,Mouse,Accessories,1,673.67,673.67,Cash on Delivery,2026-01-11,Delivered
+50465,1026,Headphones,Electronics,3,2123.37,6370.11,Debit Card,2026-03-06,Cancelled
+50466,1051,Water Bottle,Home,4,921.23,3684.92,Credit Card,2025-09-19,Delivered
+50467,1042,Running Shoes,Fashion,3,5414.96,16244.88,Cash on Delivery,2025-05-02,Shipped
+50468,1035,Keyboard,Accessories,2,2374.17,4748.34,Net Banking,2025-07-20,Delivered
+50469,1017,Running Shoes,Fashion,1,6248.14,6248.14,Cash on Delivery,2025-10-05,Delivered
+50470,1013,Keyboard,Accessories,1,2807.09,2807.09,Credit Card,2025-12-31,Cancelled
+50471,1003,Keyboard,Accessories,3,4321.91,12965.73,Credit Card,2025-12-20,Shipped
+50472,1046,Headphones,Electronics,2,1592.0,3184.0,Net Banking,2026-06-17,Delivered
+50473,1001,Water Bottle,Home,3,1117.24,3351.72,Net Banking,2025-10-07,Shipped
+50474,1011,Headphones,Electronics,1,5458.39,5458.39,Net Banking,2026-03-11,Shipped
+50475,1086,Laptop,Electronics,3,80212.59,240637.77,UPI,2025-06-14,Returned
+50476,1017,Keyboard,Accessories,4,965.73,3862.92,Cash on Delivery,2025-06-13,Cancelled
+50477,1098,Headphones,Electronics,3,7755.4,23266.2,Debit Card,2026-07-13,Delivered
+50478,1092,Mouse,Accessories,1,2339.24,2339.24,Cash on Delivery,2025-07-03,Delivered
+50479,1070,Desk,Furniture,2,6654.76,13309.52,UPI,2025-05-27,Delivered
+50480,1070,Coffee Maker,Home,4,9668.9,38675.6,Credit Card,2025-08-16,Cancelled
+50481,1023,Water Bottle,Home,1,1144.07,1144.07,Debit Card,2026-05-14,Delivered
+50482,1091,Laptop,Electronics,3,80778.1,242334.3,Credit Card,2026-08-27,Delivered
+50483,1007,Jeans,Fashion,3,2855.94,8567.82,Cash on Delivery,2025-06-12,Returned
+50484,1081,Desk,Furniture,4,22225.28,88901.12,UPI,2025-05-27,Returned
+50485,1013,Mouse,Accessories,3,1565.63,4696.89,Cash on Delivery,2025-10-14,Returned
+50486,1086,Smartphone,Electronics,4,66109.16,264436.64,Debit Card,2026-07-20,Delivered
+50487,1080,Table Lamp,Home,4,1758.07,7032.28,Net Banking,2025-07-13,Delivered
+50488,1057,Office Chair,Furniture,3,7739.16,23217.48,Debit Card,2025-01-19,Delivered
+50489,1071,Office Chair,Furniture,2,15770.1,31540.2,Debit Card,2025-03-06,Delivered
+50490,1037,Desk,Furniture,1,20069.05,20069.05,Cash on Delivery,2025-07-07,Delivered
+50491,1066,Jeans,Fashion,1,3568.58,3568.58,UPI,2026-01-19,Delivered
+50492,1099,T-Shirt,Fashion,3,632.02,1896.06,Debit Card,2025-07-07,Shipped
+50493,1061,Running Shoes,Fashion,4,2506.22,10024.88,Debit Card,2025-05-03,Cancelled
+50494,1034,Smartphone,Electronics,4,21211.24,84844.96,Credit Card,2026-01-15,Cancelled
+50495,1013,Coffee Maker,Home,2,3192.57,6385.14,Net Banking,2025-10-17,Returned
+50496,1055,Headphones,Electronics,4,3189.1,12756.4,Debit Card,2025-08-19,Shipped
+50497,1030,Backpack,Accessories,1,2921.43,2921.43,Cash on Delivery,2026-06-17,Delivered
+50498,1086,Keyboard,Accessories,3,3520.83,10562.49,UPI,2025-07-02,Returned
+50499,1072,T-Shirt,Fashion,2,1671.73,3343.46,Net Banking,2025-06-09,Delivered
+50500,1053,T-Shirt,Fashion,2,1927.91,3855.82,Net Banking,2025-07-24,Delivered
+50501,1031,Backpack,Accessories,4,1949.93,7799.72,Credit Card,2025-12-20,Returned
+50502,1079,Water Bottle,Home,1,1422.97,1422.97,UPI,2025-08-29,Delivered
+50503,1086,Running Shoes,Fashion,2,7005.27,14010.54,UPI,2025-12-09,Delivered
+50504,1044,Office Chair,Furniture,1,9424.82,9424.82,UPI,2025-06-06,Delivered
+50505,1019,Water Bottle,Home,1,840.35,840.35,UPI,2026-03-04,Delivered
+50506,1013,Monitor,Electronics,2,32188.68,64377.36,Debit Card,2025-06-26,Cancelled
+50507,1017,Office Chair,Furniture,4,13776.82,55107.28,Credit Card,2026-04-16,Delivered
+50508,1089,Running Shoes,Fashion,1,8511.2,8511.2,Credit Card,2025-06-24,Returned
+50509,1033,Keyboard,Accessories,1,4477.15,4477.15,Net Banking,2026-06-07,Delivered
+50510,1073,Monitor,Electronics,3,33543.54,100630.62,Cash on Delivery,2025-10-20,Delivered
+50511,1028,Laptop,Electronics,1,64942.83,64942.83,UPI,2025-12-21,Returned
+50512,1071,Smartphone,Electronics,4,35278.89,141115.56,UPI,2025-01-13,Delivered
+50513,1002,Keyboard,Accessories,1,2546.35,2546.35,UPI,2025-11-25,Cancelled
+50514,1097,Water Bottle,Home,2,1620.24,3240.48,Net Banking,2025-06-22,Shipped
+50515,1007,Smartphone,Electronics,1,22513.05,22513.05,Net Banking,2025-10-01,Delivered
+50516,1021,Coffee Maker,Home,2,8625.91,17251.82,Net Banking,2026-05-03,Cancelled
+50517,1099,Mouse,Accessories,1,2714.56,2714.56,Cash on Delivery,2025-11-09,Delivered
+50518,1044,Mouse,Accessories,2,1741.24,3482.48,Cash on Delivery,2026-08-09,Cancelled
+50519,1002,Running Shoes,Fashion,1,8377.48,8377.48,UPI,2026-02-02,Delivered
+50520,1017,Headphones,Electronics,1,6206.16,6206.16,Net Banking,2025-07-01,Delivered
+50521,1100,Office Chair,Furniture,1,11033.24,11033.24,Credit Card,2025-07-07,Delivered
+50522,1028,Mouse,Accessories,1,1210.85,1210.85,UPI,2025-04-14,Delivered
+50523,1053,Table Lamp,Home,4,1201.76,4807.04,Credit Card,2025-06-24,Cancelled
+50524,1007,Desk,Furniture,2,9453.04,18906.08,Cash on Delivery,2025-02-02,Returned
+50525,1012,Table Lamp,Home,3,1913.91,5741.73,Debit Card,2026-01-08,Delivered
+50526,1051,Running Shoes,Fashion,3,8154.79,24464.37,UPI,2025-06-09,Delivered
+50527,1072,Office Chair,Furniture,1,12879.91,12879.91,Cash on Delivery,2025-08-02,Delivered
+50528,1029,Monitor,Electronics,4,10708.07,42832.28,Credit Card,2025-08-14,Delivered
+50529,1044,Running Shoes,Fashion,3,2418.02,7254.06,Credit Card,2026-05-31,Delivered
+50530,1056,Office Chair,Furniture,1,8109.06,8109.06,Net Banking,2026-03-10,Delivered
+50531,1017,Jeans,Fashion,4,1411.69,5646.76,Debit Card,2025-03-31,Delivered
+50532,1025,Backpack,Accessories,2,4136.26,8272.52,Credit Card,2026-05-22,Shipped
+50533,1072,Headphones,Electronics,3,7875.24,23625.72,Net Banking,2026-02-16,Delivered
+50534,1052,Water Bottle,Home,1,817.79,817.79,Net Banking,2026-07-23,Returned
+50535,1026,Jeans,Fashion,1,3132.0,3132.0,UPI,2025-01-05,Delivered
+50536,1054,Monitor,Electronics,1,20639.51,20639.51,UPI,2026-02-26,Delivered
+50537,1021,Smartphone,Electronics,3,34484.73,103454.19,Cash on Delivery,2026-01-25,Cancelled
+50538,1078,T-Shirt,Fashion,2,2021.71,4043.42,Credit Card,2025-10-29,Shipped
+50539,1006,Jeans,Fashion,2,2770.45,5540.9,Cash on Delivery,2026-06-04,Delivered
+50540,1081,Running Shoes,Fashion,3,6720.44,20161.32,Debit Card,2025-11-29,Delivered
+50541,1070,Water Bottle,Home,3,662.97,1988.91,UPI,2025-09-29,Delivered
+50542,1064,Headphones,Electronics,4,7964.77,31859.08,Debit Card,2025-03-31,Cancelled
+50543,1089,Desk,Furniture,4,10931.29,43725.16,Credit Card,2025-01-19,Returned
+50544,1026,Backpack,Accessories,2,3178.2,6356.4,Net Banking,2026-07-25,Shipped
+50545,1080,Smartphone,Electronics,1,67807.46,67807.46,Credit Card,2025-09-04,Shipped
+50546,1100,Table Lamp,Home,4,3273.88,13095.52,UPI,2026-03-03,Returned
+50547,1086,Laptop,Electronics,3,83406.71,250220.13,Cash on Delivery,2025-03-27,Delivered
+50548,1092,Desk,Furniture,1,6171.73,6171.73,Net Banking,2025-09-12,Delivered
+50549,1066,Keyboard,Accessories,4,4193.93,16775.72,Debit Card,2025-06-04,Delivered
+50550,1045,Running Shoes,Fashion,3,8262.5,24787.5,Credit Card,2025-09-22,Cancelled
+50551,1001,Office Chair,Furniture,3,16953.9,50861.7,UPI,2026-08-28,Returned
+50552,1094,Laptop,Electronics,3,60698.33,182094.99,Debit Card,2025-12-25,Delivered
+50553,1045,Table Lamp,Home,2,2790.53,5581.06,Net Banking,2025-04-01,Delivered
+50554,1058,Monitor,Electronics,1,15250.37,15250.37,Credit Card,2026-02-08,Delivered
+50555,1041,Backpack,Accessories,2,3939.36,7878.72,UPI,2025-07-12,Delivered
+50556,1041,Mouse,Accessories,2,2166.83,4333.66,Cash on Delivery,2026-08-03,Shipped
+50557,1099,Water Bottle,Home,4,1170.13,4680.52,Net Banking,2025-10-09,Delivered
+50558,1047,Headphones,Electronics,1,3600.74,3600.74,Credit Card,2026-07-06,Shipped
+50559,1084,Keyboard,Accessories,2,4077.54,8155.08,Credit Card,2025-04-19,Shipped
+50560,1046,Office Chair,Furniture,1,8844.03,8844.03,Net Banking,2026-05-09,Delivered
+50561,1099,Water Bottle,Home,4,742.86,2971.44,Cash on Delivery,2026-01-02,Delivered
+50562,1098,Office Chair,Furniture,3,9318.48,27955.44,Cash on Delivery,2026-06-20,Delivered
+50563,1049,Monitor,Electronics,3,22407.14,67221.42,Cash on Delivery,2025-09-05,Delivered
+50564,1053,Backpack,Accessories,1,1131.5,1131.5,UPI,2026-05-24,Delivered
+50565,1057,Coffee Maker,Home,2,5940.67,11881.34,Credit Card,2026-01-26,Returned
+50566,1003,Mouse,Accessories,1,1190.25,1190.25,Debit Card,2025-12-08,Returned
+50567,1036,Monitor,Electronics,4,17062.2,68248.8,UPI,2025-12-09,Delivered
+50568,1025,Smartphone,Electronics,2,32891.23,65782.46,Debit Card,2025-07-25,Delivered
+50569,1100,T-Shirt,Fashion,4,2303.88,9215.52,Cash on Delivery,2025-11-06,Shipped
+50570,1031,Office Chair,Furniture,1,9948.97,9948.97,Credit Card,2025-07-21,Delivered
+50571,1081,Smartphone,Electronics,3,43467.8,130403.4,Debit Card,2026-04-25,Delivered
+50572,1048,Mouse,Accessories,1,1340.45,1340.45,Net Banking,2025-04-21,Delivered
+50573,1065,Water Bottle,Home,1,1140.14,1140.14,UPI,2026-07-17,Delivered
+50574,1066,Laptop,Electronics,1,62952.55,62952.55,Debit Card,2025-07-17,Delivered
+50575,1057,Jeans,Fashion,3,1550.35,4651.05,UPI,2026-02-22,Delivered
+50576,1070,Desk,Furniture,1,8701.24,8701.24,Net Banking,2025-11-04,Shipped
+50577,1076,Headphones,Electronics,1,5967.96,5967.96,Cash on Delivery,2025-07-02,Delivered
+50578,1100,Laptop,Electronics,3,64300.02,192900.06,Net Banking,2026-01-04,Delivered
+50579,1078,Water Bottle,Home,4,486.57,1946.28,Credit Card,2025-09-27,Delivered
+50580,1059,Running Shoes,Fashion,3,3644.81,10934.43,Cash on Delivery,2025-06-17,Delivered
+50581,1080,Keyboard,Accessories,1,2097.1,2097.1,Cash on Delivery,2025-08-28,Cancelled
+50582,1043,Headphones,Electronics,3,3896.57,11689.71,Credit Card,2025-03-30,Delivered
+50583,1002,Jeans,Fashion,4,2950.08,11800.32,Debit Card,2025-11-09,Shipped
+50584,1067,Office Chair,Furniture,3,9067.22,27201.66,Credit Card,2026-08-18,Delivered
+50585,1097,Smartphone,Electronics,4,52071.1,208284.4,UPI,2025-01-12,Cancelled
+50586,1012,Keyboard,Accessories,3,1604.0,4812.0,UPI,2025-04-07,Shipped
+50587,1059,Desk,Furniture,4,13686.02,54744.08,UPI,2025-11-14,Delivered
+50588,1066,Desk,Furniture,3,18873.28,56619.84,Net Banking,2025-10-16,Shipped
+50589,1087,Monitor,Electronics,2,28070.66,56141.32,Debit Card,2025-05-08,Cancelled
+50590,1024,Running Shoes,Fashion,4,8932.53,35730.12,Credit Card,2025-12-27,Delivered
+50591,1074,Office Chair,Furniture,2,10851.51,21703.02,UPI,2025-11-18,Cancelled
+50592,1041,Table Lamp,Home,1,3932.66,3932.66,Cash on Delivery,2025-03-23,Delivered
+50593,1049,Monitor,Electronics,1,14315.45,14315.45,Net Banking,2026-08-06,Delivered
+50594,1035,Headphones,Electronics,2,4714.17,9428.34,Credit Card,2026-08-09,Cancelled
+50595,1039,Mouse,Accessories,2,1969.46,3938.92,Debit Card,2026-05-10,Cancelled
+50596,1020,Monitor,Electronics,3,20189.74,60569.22,Net Banking,2026-02-07,Delivered
+50597,1053,Headphones,Electronics,3,4962.98,14888.94,Credit Card,2025-05-14,Returned
+50598,1096,Water Bottle,Home,2,976.03,1952.06,UPI,2026-03-19,Delivered
+50599,1068,Water Bottle,Home,4,303.03,1212.12,UPI,2026-08-18,Delivered
+50600,1059,Desk,Furniture,2,17632.9,35265.8,Debit Card,2026-07-14,Shipped
+50601,1098,Water Bottle,Home,4,1181.38,4725.52,UPI,2025-10-11,Delivered
+50602,1049,Laptop,Electronics,1,68317.04,68317.04,UPI,2025-06-13,Delivered
+50603,1046,Laptop,Electronics,2,60961.41,121922.82,Credit Card,2025-09-19,Cancelled
+50604,1054,Laptop,Electronics,2,45332.8,90665.6,Credit Card,2026-02-23,Delivered
+50605,1028,Water Bottle,Home,1,1671.82,1671.82,Net Banking,2026-08-28,Delivered
+50606,1092,Desk,Furniture,3,6172.03,18516.09,UPI,2025-02-12,Delivered
+50607,1040,Desk,Furniture,2,19316.49,38632.98,UPI,2025-05-31,Returned
+50608,1097,Monitor,Electronics,3,9767.11,29301.33,UPI,2026-01-01,Shipped
+50609,1075,Water Bottle,Home,4,1666.75,6667.0,Cash on Delivery,2025-11-10,Delivered
+50610,1048,Water Bottle,Home,4,421.72,1686.88,Credit Card,2025-12-04,Cancelled
+50611,1063,Jeans,Fashion,3,2581.8,7745.4,Cash on Delivery,2026-05-19,Cancelled
+50612,1091,Headphones,Electronics,2,4692.56,9385.12,Debit Card,2026-05-09,Delivered
+50613,1089,Laptop,Electronics,1,53248.7,53248.7,UPI,2026-07-03,Delivered
+50614,1002,Smartphone,Electronics,4,58305.53,233222.12,Cash on Delivery,2026-07-24,Delivered
+50615,1040,Water Bottle,Home,4,1550.46,6201.84,Net Banking,2025-09-09,Delivered
+50616,1098,Keyboard,Accessories,3,1068.83,3206.49,Debit Card,2025-07-04,Shipped
+50617,1061,Monitor,Electronics,2,22068.41,44136.82,Debit Card,2025-03-29,Delivered
+50618,1003,Coffee Maker,Home,3,5169.86,15509.58,Credit Card,2025-05-01,Delivered
+50619,1029,Mouse,Accessories,2,690.89,1381.78,Cash on Delivery,2025-01-21,Delivered
+50620,1084,Backpack,Accessories,3,3849.44,11548.32,Debit Card,2025-03-10,Delivered
+50621,1056,Monitor,Electronics,4,15498.88,61995.52,Credit Card,2026-06-19,Delivered
+50622,1052,Keyboard,Accessories,1,2285.91,2285.91,UPI,2025-11-07,Cancelled
+50623,1049,Backpack,Accessories,4,3752.25,15009.0,Credit Card,2025-11-10,Returned
+50624,1009,Laptop,Electronics,1,49102.72,49102.72,Debit Card,2025-04-19,Delivered
+50625,1005,Backpack,Accessories,2,2825.6,5651.2,Credit Card,2025-03-28,Delivered
+50626,1030,Coffee Maker,Home,3,6887.51,20662.53,UPI,2026-04-02,Shipped
+50627,1032,Jeans,Fashion,1,2351.06,2351.06,Net Banking,2026-05-10,Returned
+50628,1085,Running Shoes,Fashion,1,7184.38,7184.38,Credit Card,2026-04-30,Cancelled
+50629,1033,Coffee Maker,Home,2,5319.47,10638.94,UPI,2025-08-23,Delivered
+50630,1036,Headphones,Electronics,2,2026.17,4052.34,Credit Card,2025-08-22,Delivered
+50631,1047,Water Bottle,Home,2,550.4,1100.8,Debit Card,2025-04-28,Returned
+50632,1009,T-Shirt,Fashion,4,1643.82,6575.28,UPI,2026-04-26,Delivered
+50633,1065,Headphones,Electronics,2,4000.68,8001.36,Cash on Delivery,2025-12-20,Delivered
+50634,1093,Running Shoes,Fashion,2,6027.87,12055.74,Cash on Delivery,2026-07-14,Delivered
+50635,1039,Keyboard,Accessories,4,4719.13,18876.52,Credit Card,2025-01-17,Returned
+50636,1067,Running Shoes,Fashion,1,7353.61,7353.61,Credit Card,2025-04-13,Shipped
+50637,1043,Laptop,Electronics,1,69453.46,69453.46,UPI,2025-09-08,Shipped
+50638,1032,Headphones,Electronics,3,7222.21,21666.63,Credit Card,2026-01-15,Delivered
+50639,1056,Mouse,Accessories,4,2212.92,8851.68,UPI,2025-04-03,Delivered
+50640,1051,Mouse,Accessories,4,928.93,3715.72,UPI,2025-07-18,Cancelled
+50641,1041,Running Shoes,Fashion,3,7744.19,23232.57,Cash on Delivery,2025-05-19,Shipped
+50642,1018,T-Shirt,Fashion,2,1795.55,3591.1,Debit Card,2026-01-19,Delivered
+50643,1057,Office Chair,Furniture,2,11230.38,22460.76,Net Banking,2025-12-01,Delivered
+50644,1082,Monitor,Electronics,1,34524.39,34524.39,Credit Card,2025-11-29,Shipped
+50645,1093,Mouse,Accessories,3,1002.03,3006.09,Debit Card,2025-11-19,Delivered
+50646,1040,Headphones,Electronics,2,6158.8,12317.6,Debit Card,2026-07-28,Delivered
+50647,1095,Water Bottle,Home,4,1384.11,5536.44,Debit Card,2025-04-06,Delivered
+50648,1049,T-Shirt,Fashion,3,2162.74,6488.22,UPI,2025-12-14,Returned
+50649,1079,Coffee Maker,Home,2,9841.69,19683.38,UPI,2025-05-16,Delivered
+50650,1045,Table Lamp,Home,2,3302.27,6604.54,Credit Card,2026-05-15,Delivered
+50651,1044,Headphones,Electronics,1,2609.25,2609.25,Cash on Delivery,2026-07-25,Returned
+50652,1006,Coffee Maker,Home,1,5796.15,5796.15,Cash on Delivery,2026-03-18,Delivered
+50653,1064,Backpack,Accessories,3,3090.04,9270.12,Credit Card,2026-05-05,Shipped
+50654,1076,Keyboard,Accessories,2,3984.72,7969.44,Credit Card,2026-03-21,Shipped
+50655,1059,Water Bottle,Home,2,879.32,1758.64,UPI,2025-02-09,Shipped
+50656,1076,Water Bottle,Home,2,937.28,1874.56,Credit Card,2025-10-27,Delivered
+50657,1002,Jeans,Fashion,4,1415.52,5662.08,Credit Card,2026-01-31,Delivered
+50658,1096,Table Lamp,Home,3,2910.43,8731.29,UPI,2026-01-19,Cancelled
+50659,1038,Mouse,Accessories,1,1086.56,1086.56,Debit Card,2025-08-10,Shipped
+50660,1028,Laptop,Electronics,2,55780.47,111560.94,Cash on Delivery,2026-01-13,Cancelled
+50661,1022,Running Shoes,Fashion,3,6167.12,18501.36,Credit Card,2026-03-13,Returned
+50662,1070,Jeans,Fashion,4,2492.26,9969.04,Net Banking,2025-12-06,Delivered
+50663,1037,Laptop,Electronics,4,53689.24,214756.96,Cash on Delivery,2026-02-09,Delivered
+50664,1046,Jeans,Fashion,1,2964.11,2964.11,Credit Card,2025-08-05,Cancelled
+50665,1029,Water Bottle,Home,4,787.94,3151.76,Cash on Delivery,2025-08-18,Delivered
+50666,1054,Smartphone,Electronics,4,28695.48,114781.92,Cash on Delivery,2026-07-04,Delivered
+50667,1031,Monitor,Electronics,4,17492.62,69970.48,Debit Card,2026-04-25,Shipped
+50668,1035,Table Lamp,Home,3,3992.41,11977.23,Cash on Delivery,2026-04-04,Delivered
+50669,1030,Keyboard,Accessories,3,2505.25,7515.75,Net Banking,2025-10-31,Shipped
+50670,1078,Headphones,Electronics,2,1297.79,2595.58,Credit Card,2026-03-09,Delivered
+50671,1058,Backpack,Accessories,3,2790.73,8372.19,Debit Card,2026-05-30,Shipped
+50672,1025,Keyboard,Accessories,1,3265.13,3265.13,Net Banking,2026-07-27,Shipped
+50673,1074,Jeans,Fashion,3,2438.42,7315.26,Cash on Delivery,2025-10-03,Delivered
+50674,1098,Backpack,Accessories,4,2326.95,9307.8,Net Banking,2025-07-10,Delivered
+50675,1050,Keyboard,Accessories,3,2660.85,7982.55,Net Banking,2025-04-23,Delivered
+50676,1075,Monitor,Electronics,2,24422.11,48844.22,Debit Card,2025-07-08,Delivered
+50677,1087,Water Bottle,Home,3,1595.46,4786.38,Debit Card,2025-10-04,Delivered
+50678,1089,Keyboard,Accessories,3,3701.71,11105.13,UPI,2025-07-01,Delivered
+50679,1071,Mouse,Accessories,3,2344.27,7032.81,Net Banking,2025-07-12,Returned
+50680,1047,Office Chair,Furniture,4,5550.45,22201.8,UPI,2025-04-03,Cancelled
+50681,1033,T-Shirt,Fashion,2,538.29,1076.58,Debit Card,2025-02-12,Returned
+50682,1094,Coffee Maker,Home,4,10126.7,40506.8,Debit Card,2025-06-05,Delivered
+50683,1037,T-Shirt,Fashion,1,807.38,807.38,UPI,2026-03-14,Delivered
+50684,1043,Water Bottle,Home,4,442.36,1769.44,Net Banking,2025-01-08,Shipped
+50685,1084,Office Chair,Furniture,2,6099.35,12198.7,Net Banking,2026-03-15,Cancelled
+50686,1045,T-Shirt,Fashion,3,922.46,2767.38,Debit Card,2025-08-27,Delivered
+50687,1073,Keyboard,Accessories,3,2003.38,6010.14,Debit Card,2025-06-28,Delivered
+50688,1095,Keyboard,Accessories,2,3703.09,7406.18,UPI,2025-09-21,Returned
+50689,1020,Jeans,Fashion,1,1374.7,1374.7,Net Banking,2025-11-05,Returned
+50690,1042,Coffee Maker,Home,1,8858.43,8858.43,Cash on Delivery,2026-05-09,Delivered
+50691,1058,Smartphone,Electronics,2,37891.99,75783.98,Credit Card,2025-10-03,Delivered
+50692,1052,Mouse,Accessories,4,662.54,2650.16,Cash on Delivery,2025-03-25,Delivered
+50693,1072,Keyboard,Accessories,2,1497.29,2994.58,Net Banking,2025-02-25,Returned
+50694,1008,Office Chair,Furniture,3,9241.3,27723.9,Cash on Delivery,2026-07-22,Delivered
+50695,1036,Table Lamp,Home,3,1969.91,5909.73,Cash on Delivery,2025-01-13,Delivered
+50696,1095,Keyboard,Accessories,2,4197.9,8395.8,Credit Card,2025-06-15,Returned
+50697,1022,Office Chair,Furniture,3,8527.76,25583.28,Credit Card,2025-01-31,Returned
+50698,1062,Water Bottle,Home,4,1225.83,4903.32,Cash on Delivery,2025-07-11,Cancelled
+50699,1024,Table Lamp,Home,4,1771.6,7086.4,Debit Card,2025-04-22,Delivered
+50700,1095,T-Shirt,Fashion,3,664.54,1993.62,Credit Card,2026-03-15,Delivered
+50701,1022,Keyboard,Accessories,4,2328.0,9312.0,Cash on Delivery,2025-03-30,Delivered
+50702,1015,Headphones,Electronics,4,6483.94,25935.76,Credit Card,2025-09-28,Returned
+50703,1081,Jeans,Fashion,3,3552.3,10656.9,UPI,2025-02-09,Delivered
+50704,1077,Table Lamp,Home,3,2472.83,7418.49,UPI,2026-03-23,Delivered
+50705,1071,Coffee Maker,Home,2,10463.19,20926.38,UPI,2025-08-15,Delivered
+50706,1089,Backpack,Accessories,3,2588.96,7766.88,Cash on Delivery,2025-08-17,Cancelled
+50707,1090,Headphones,Electronics,1,5139.34,5139.34,Net Banking,2026-07-05,Delivered
+50708,1063,Running Shoes,Fashion,4,3955.91,15823.64,Net Banking,2025-02-22,Cancelled
+50709,1098,Headphones,Electronics,4,4537.2,18148.8,Cash on Delivery,2026-02-26,Returned
+50710,1078,Office Chair,Furniture,2,6859.01,13718.02,Debit Card,2026-01-22,Delivered
+50711,1093,Coffee Maker,Home,1,9429.91,9429.91,Cash on Delivery,2025-11-04,Delivered
+50712,1085,Jeans,Fashion,1,1907.41,1907.41,Credit Card,2026-08-19,Returned
+50713,1045,Jeans,Fashion,2,3304.69,6609.38,Credit Card,2025-10-03,Delivered
+50714,1097,Running Shoes,Fashion,1,3064.34,3064.34,UPI,2025-09-30,Delivered
+50715,1023,Office Chair,Furniture,2,17330.54,34661.08,Debit Card,2026-04-19,Returned
+50716,1028,Water Bottle,Home,1,1002.1,1002.1,UPI,2025-09-29,Returned
+50717,1017,Smartphone,Electronics,2,38649.19,77298.38,Cash on Delivery,2026-08-31,Delivered
+50718,1013,Running Shoes,Fashion,2,7792.87,15585.74,Debit Card,2026-08-29,Shipped
+50719,1015,Backpack,Accessories,1,2787.03,2787.03,UPI,2025-06-29,Delivered
+50720,1052,Coffee Maker,Home,3,3672.31,11016.93,UPI,2025-11-04,Delivered
+50721,1099,Mouse,Accessories,3,817.77,2453.31,Debit Card,2025-04-08,Delivered
+50722,1078,Jeans,Fashion,4,3228.88,12915.52,UPI,2025-03-13,Delivered
+50723,1042,T-Shirt,Fashion,4,1259.5,5038.0,Debit Card,2025-05-19,Returned
+50724,1032,Water Bottle,Home,3,1459.16,4377.48,Credit Card,2026-02-28,Returned
+50725,1037,Office Chair,Furniture,2,9756.52,19513.04,Cash on Delivery,2025-07-11,Delivered
+50726,1099,Mouse,Accessories,4,2415.63,9662.52,Debit Card,2025-05-19,Delivered
+50727,1083,Keyboard,Accessories,3,2033.86,6101.58,Net Banking,2025-09-30,Cancelled
+50728,1066,Headphones,Electronics,4,3359.34,13437.36,Cash on Delivery,2026-01-06,Delivered
+50729,1043,Monitor,Electronics,2,16214.08,32428.16,Net Banking,2025-02-27,Shipped
+50730,1100,Monitor,Electronics,2,27617.3,55234.6,Net Banking,2026-05-09,Delivered
+50731,1056,Table Lamp,Home,4,1887.91,7551.64,Debit Card,2025-07-29,Delivered
+50732,1080,Jeans,Fashion,4,1720.05,6880.2,Credit Card,2026-05-07,Delivered
+50733,1076,Desk,Furniture,3,9093.03,27279.09,Cash on Delivery,2026-06-21,Returned
+50734,1073,Smartphone,Electronics,3,28566.22,85698.66,Credit Card,2025-12-26,Delivered
+50735,1067,Headphones,Electronics,3,3201.01,9603.03,Credit Card,2025-10-10,Delivered
+50736,1053,Jeans,Fashion,3,1794.85,5384.55,Net Banking,2025-10-09,Returned
+50737,1084,Smartphone,Electronics,3,63652.28,190956.84,Net Banking,2026-04-16,Delivered
+50738,1001,Backpack,Accessories,4,3418.7,13674.8,UPI,2026-08-01,Cancelled
+50739,1084,Headphones,Electronics,2,5305.82,10611.64,UPI,2026-04-14,Cancelled
+50740,1015,Running Shoes,Fashion,1,2818.46,2818.46,Credit Card,2025-09-07,Cancelled
+50741,1021,Monitor,Electronics,3,20279.94,60839.82,UPI,2025-03-11,Delivered
+50742,1087,Water Bottle,Home,4,626.86,2507.44,Net Banking,2025-04-01,Delivered
+50743,1023,Keyboard,Accessories,4,4466.68,17866.72,Debit Card,2026-07-06,Delivered
+50744,1072,Table Lamp,Home,1,3816.51,3816.51,Debit Card,2026-07-27,Shipped
+50745,1037,Table Lamp,Home,1,1042.12,1042.12,Debit Card,2025-08-25,Cancelled
+50746,1002,Running Shoes,Fashion,1,2470.64,2470.64,UPI,2025-12-26,Delivered
+50747,1076,Headphones,Electronics,2,7071.57,14143.14,Credit Card,2026-03-21,Shipped
+50748,1073,Mouse,Accessories,4,2957.27,11829.08,Credit Card,2026-05-10,Delivered
+50749,1076,Backpack,Accessories,3,1184.68,3554.04,UPI,2026-03-15,Cancelled
+50750,1065,Office Chair,Furniture,1,12981.61,12981.61,UPI,2025-07-10,Delivered
+50751,1081,Mouse,Accessories,2,2541.24,5082.48,Debit Card,2025-07-27,Cancelled
+50752,1090,Jeans,Fashion,1,2118.9,2118.9,Cash on Delivery,2025-06-15,Delivered
+50753,1014,T-Shirt,Fashion,1,2181.82,2181.82,Cash on Delivery,2026-05-24,Delivered
+50754,1035,Running Shoes,Fashion,1,3930.3,3930.3,Net Banking,2025-01-06,Shipped
+50755,1089,Mouse,Accessories,2,2178.05,4356.1,Credit Card,2025-01-26,Returned
+50756,1070,Keyboard,Accessories,2,2512.54,5025.08,Debit Card,2026-03-24,Delivered
+50757,1014,Smartphone,Electronics,4,45920.38,183681.52,Cash on Delivery,2026-01-19,Delivered
+50758,1035,Backpack,Accessories,3,3144.79,9434.37,UPI,2026-02-23,Delivered
+50759,1048,Monitor,Electronics,4,26715.18,106860.72,Net Banking,2025-11-13,Shipped
+50760,1065,Laptop,Electronics,3,55213.45,165640.35,Debit Card,2025-06-13,Shipped
+50761,1037,Mouse,Accessories,2,1798.24,3596.48,Net Banking,2025-07-06,Delivered
+50762,1028,T-Shirt,Fashion,4,1338.37,5353.48,Cash on Delivery,2025-07-13,Returned
+50763,1015,Headphones,Electronics,2,3360.32,6720.64,Debit Card,2025-06-08,Delivered
+50764,1071,Backpack,Accessories,1,3927.74,3927.74,Net Banking,2026-01-06,Returned
+50765,1099,Table Lamp,Home,1,2815.43,2815.43,Credit Card,2025-08-18,Delivered
+50766,1039,Smartphone,Electronics,1,57953.01,57953.01,Net Banking,2025-06-20,Cancelled
+50767,1006,Running Shoes,Fashion,3,7830.51,23491.53,Credit Card,2026-05-09,Delivered
+50768,1032,Monitor,Electronics,1,32791.58,32791.58,Credit Card,2025-05-26,Returned
+50769,1074,Office Chair,Furniture,2,11683.24,23366.48,Net Banking,2025-01-06,Delivered
+50770,1043,Jeans,Fashion,3,3519.77,10559.31,UPI,2025-04-06,Delivered
+50771,1083,Jeans,Fashion,4,1854.91,7419.64,Cash on Delivery,2026-02-20,Cancelled
+50772,1065,Office Chair,Furniture,2,10727.46,21454.92,Net Banking,2025-05-30,Returned
+50773,1003,Water Bottle,Home,1,1785.5,1785.5,UPI,2025-11-12,Delivered
+50774,1073,Backpack,Accessories,2,3408.16,6816.32,Credit Card,2025-03-24,Shipped
+50775,1087,Jeans,Fashion,1,2060.21,2060.21,UPI,2025-08-25,Returned
+50776,1058,Desk,Furniture,2,23061.33,46122.66,UPI,2025-01-25,Cancelled
+50777,1010,Headphones,Electronics,4,3482.24,13928.96,Debit Card,2026-04-04,Delivered
+50778,1007,Keyboard,Accessories,1,4782.66,4782.66,UPI,2026-03-24,Cancelled
+50779,1082,Smartphone,Electronics,4,16976.16,67904.64,Debit Card,2025-11-27,Delivered
+50780,1059,Headphones,Electronics,2,7034.09,14068.18,Credit Card,2025-09-19,Delivered
+50781,1048,Coffee Maker,Home,3,5411.11,16233.33,Credit Card,2025-03-17,Delivered
+50782,1002,Running Shoes,Fashion,4,8816.6,35266.4,Credit Card,2025-10-10,Returned
+50783,1046,Jeans,Fashion,4,3731.88,14927.52,Net Banking,2025-01-12,Shipped
+50784,1081,T-Shirt,Fashion,3,2111.3,6333.9,Net Banking,2026-06-04,Shipped
+50785,1093,Table Lamp,Home,4,1418.4,5673.6,Net Banking,2026-02-04,Cancelled
+50786,1037,Table Lamp,Home,3,964.14,2892.42,Cash on Delivery,2025-07-14,Returned
+50787,1019,Monitor,Electronics,3,22778.46,68335.38,Cash on Delivery,2025-01-21,Shipped
+50788,1020,Water Bottle,Home,3,530.85,1592.55,UPI,2025-06-13,Delivered
+50789,1069,Mouse,Accessories,4,2167.21,8668.84,Net Banking,2025-01-30,Shipped
+50790,1043,Headphones,Electronics,3,6659.39,19978.17,Cash on Delivery,2026-06-18,Delivered
+50791,1019,Monitor,Electronics,3,16729.47,50188.41,Net Banking,2025-08-27,Returned
+50792,1004,Desk,Furniture,4,18788.75,75155.0,Credit Card,2026-06-01,Delivered
+50793,1022,Backpack,Accessories,2,2873.03,5746.06,Credit Card,2025-10-27,Delivered
+50794,1095,Running Shoes,Fashion,2,5111.7,10223.4,Net Banking,2025-05-27,Delivered
+50795,1057,T-Shirt,Fashion,3,1818.85,5456.55,Cash on Delivery,2025-07-08,Returned
+50796,1066,Headphones,Electronics,3,4380.23,13140.69,Debit Card,2025-05-18,Delivered
+50797,1096,Smartphone,Electronics,4,51595.09,206380.36,Cash on Delivery,2025-04-17,Delivered
+50798,1071,Water Bottle,Home,3,449.32,1347.96,Credit Card,2025-11-02,Delivered
+50799,1092,Jeans,Fashion,1,3691.76,3691.76,UPI,2026-07-13,Delivered
+50800,1024,Keyboard,Accessories,2,4124.15,8248.3,Net Banking,2025-04-18,Delivered
+50801,1043,Table Lamp,Home,3,3933.28,11799.84,Debit Card,2026-05-08,Delivered
+50802,1054,Coffee Maker,Home,3,8926.6,26779.8,Credit Card,2025-11-12,Cancelled
+50803,1025,T-Shirt,Fashion,4,1051.85,4207.4,Cash on Delivery,2026-03-20,Delivered
+50804,1042,Office Chair,Furniture,1,13129.29,13129.29,Cash on Delivery,2025-09-03,Shipped
+50805,1027,Mouse,Accessories,1,2608.56,2608.56,UPI,2025-12-02,Delivered
+50806,1040,Table Lamp,Home,1,3772.35,3772.35,UPI,2026-08-11,Delivered
+50807,1098,Desk,Furniture,2,7550.38,15100.76,Net Banking,2025-02-08,Delivered
+50808,1036,Smartphone,Electronics,1,52006.59,52006.59,Debit Card,2026-01-21,Returned
+50809,1015,Desk,Furniture,2,13559.8,27119.6,Net Banking,2025-06-05,Delivered
+50810,1010,Running Shoes,Fashion,3,5501.95,16505.85,Cash on Delivery,2025-05-08,Delivered
+50811,1036,Coffee Maker,Home,2,3861.17,7722.34,Cash on Delivery,2026-02-24,Cancelled
+50812,1100,T-Shirt,Fashion,3,1895.67,5687.01,UPI,2025-04-06,Delivered
+50813,1038,Running Shoes,Fashion,4,6301.4,25205.6,Debit Card,2026-04-25,Shipped
+50814,1068,Water Bottle,Home,4,626.84,2507.36,Cash on Delivery,2025-04-14,Delivered
+50815,1070,T-Shirt,Fashion,3,532.49,1597.47,Net Banking,2025-12-03,Shipped
+50816,1046,Backpack,Accessories,2,1445.79,2891.58,Net Banking,2026-02-05,Delivered
+50817,1005,Mouse,Accessories,3,1697.32,5091.96,Cash on Delivery,2026-01-07,Returned
+50818,1079,Office Chair,Furniture,4,15137.67,60550.68,Debit Card,2025-09-02,Returned
+50819,1054,Headphones,Electronics,1,4969.63,4969.63,Cash on Delivery,2025-09-08,Delivered
+50820,1070,Headphones,Electronics,1,4698.34,4698.34,UPI,2026-08-30,Cancelled
+50821,1091,Smartphone,Electronics,1,69385.95,69385.95,UPI,2025-03-13,Returned
+50822,1096,Laptop,Electronics,4,50520.62,202082.48,Debit Card,2026-07-20,Delivered
+50823,1099,Running Shoes,Fashion,2,8115.33,16230.66,Net Banking,2026-07-12,Delivered
+50824,1001,Laptop,Electronics,3,58077.64,174232.92,UPI,2025-11-22,Shipped
+50825,1035,Headphones,Electronics,1,5500.29,5500.29,Cash on Delivery,2026-04-20,Delivered
+50826,1073,Coffee Maker,Home,4,9155.81,36623.24,Net Banking,2025-08-31,Cancelled
+50827,1043,Headphones,Electronics,2,1829.0,3658.0,Cash on Delivery,2025-07-07,Delivered
+50828,1053,Mouse,Accessories,4,1551.89,6207.56,Cash on Delivery,2025-02-12,Delivered
+50829,1090,Office Chair,Furniture,4,12163.66,48654.64,Debit Card,2025-01-26,Returned
+50830,1020,Water Bottle,Home,1,1112.06,1112.06,Debit Card,2026-07-05,Delivered
+50831,1078,Coffee Maker,Home,3,7671.28,23013.84,Debit Card,2025-02-11,Delivered
+50832,1019,Water Bottle,Home,2,1084.82,2169.64,Net Banking,2026-01-04,Delivered
+50833,1072,Coffee Maker,Home,1,11781.8,11781.8,Debit Card,2025-02-21,Cancelled
+50834,1061,Jeans,Fashion,4,1408.99,5635.96,Net Banking,2026-07-17,Shipped
+50835,1080,Keyboard,Accessories,2,3876.03,7752.06,UPI,2025-09-26,Delivered
+50836,1004,Running Shoes,Fashion,2,4121.12,8242.24,Debit Card,2026-04-25,Delivered
+50837,1092,Backpack,Accessories,2,2075.34,4150.68,UPI,2025-08-03,Shipped
+50838,1057,Backpack,Accessories,2,3045.9,6091.8,Credit Card,2025-02-23,Shipped
+50839,1078,Headphones,Electronics,1,4640.34,4640.34,Debit Card,2025-12-14,Delivered
+50840,1093,Headphones,Electronics,4,1976.15,7904.6,Cash on Delivery,2025-03-20,Cancelled
+50841,1047,Office Chair,Furniture,1,10392.73,10392.73,Cash on Delivery,2026-07-30,Cancelled
+50842,1087,Monitor,Electronics,2,10597.6,21195.2,UPI,2026-05-05,Returned
+50843,1041,Mouse,Accessories,1,2881.87,2881.87,Credit Card,2026-03-17,Returned
+50844,1052,Running Shoes,Fashion,2,4810.23,9620.46,UPI,2026-05-28,Delivered
+50845,1017,Keyboard,Accessories,4,1483.18,5932.72,Net Banking,2026-03-03,Cancelled
+50846,1094,Table Lamp,Home,4,2567.57,10270.28,Credit Card,2026-04-02,Shipped
+50847,1083,Headphones,Electronics,4,3549.27,14197.08,Net Banking,2025-10-10,Cancelled
+50848,1029,Desk,Furniture,2,9269.63,18539.26,Debit Card,2026-07-13,Delivered
+50849,1017,Water Bottle,Home,3,1193.52,3580.56,Credit Card,2025-02-08,Delivered
+50850,1075,Monitor,Electronics,2,11084.86,22169.72,Credit Card,2025-04-18,Delivered
+50851,1053,T-Shirt,Fashion,4,2066.94,8267.76,Cash on Delivery,2025-09-14,Returned
+50852,1006,Table Lamp,Home,2,3907.01,7814.02,Net Banking,2026-08-21,Delivered
+50853,1030,Keyboard,Accessories,2,3238.71,6477.42,UPI,2025-02-02,Delivered
+50854,1027,Keyboard,Accessories,4,4792.24,19168.96,UPI,2025-09-03,Shipped
+50855,1062,Coffee Maker,Home,3,4653.56,13960.68,Cash on Delivery,2025-09-28,Delivered
+50856,1054,Monitor,Electronics,3,18904.75,56714.25,Credit Card,2025-09-16,Returned
+50857,1037,Water Bottle,Home,2,874.82,1749.64,Credit Card,2025-12-30,Delivered
+50858,1082,Jeans,Fashion,2,2435.22,4870.44,Net Banking,2025-04-08,Shipped
+50859,1006,Office Chair,Furniture,2,7836.27,15672.54,Credit Card,2025-01-25,Returned
+50860,1016,Desk,Furniture,1,13868.68,13868.68,Net Banking,2025-08-12,Delivered
+50861,1058,Headphones,Electronics,3,4452.68,13358.04,Cash on Delivery,2026-02-20,Shipped
+50862,1096,Backpack,Accessories,1,3672.92,3672.92,Debit Card,2025-11-26,Delivered
+50863,1029,Backpack,Accessories,2,1280.37,2560.74,Debit Card,2026-01-22,Delivered
+50864,1035,Table Lamp,Home,4,1581.32,6325.28,Net Banking,2025-10-21,Shipped
+50865,1008,Running Shoes,Fashion,3,8184.95,24554.85,Credit Card,2025-12-06,Returned
+50866,1045,Monitor,Electronics,3,10613.08,31839.24,Cash on Delivery,2025-07-14,Delivered
+50867,1071,Coffee Maker,Home,2,11618.01,23236.02,Credit Card,2026-03-01,Cancelled
+50868,1001,Office Chair,Furniture,1,13392.44,13392.44,Credit Card,2026-05-06,Cancelled
+50869,1050,Office Chair,Furniture,4,10870.35,43481.4,Net Banking,2025-12-11,Delivered
+50870,1078,Coffee Maker,Home,2,9689.2,19378.4,UPI,2026-02-24,Delivered
+50871,1069,Backpack,Accessories,3,3417.54,10252.62,Debit Card,2025-01-25,Delivered
+50872,1028,T-Shirt,Fashion,1,682.28,682.28,Credit Card,2025-11-11,Delivered
+50873,1056,Jeans,Fashion,1,1355.16,1355.16,Debit Card,2025-04-21,Delivered
+50874,1097,Office Chair,Furniture,4,5312.07,21248.28,Net Banking,2025-09-06,Delivered
+50875,1080,Headphones,Electronics,2,5275.65,10551.3,Cash on Delivery,2025-09-26,Shipped
+50876,1082,Desk,Furniture,4,9401.6,37606.4,Credit Card,2026-01-05,Returned
+50877,1055,Jeans,Fashion,4,1403.66,5614.64,Debit Card,2025-05-27,Delivered
+50878,1014,Backpack,Accessories,1,3405.53,3405.53,Cash on Delivery,2026-03-04,Delivered
+50879,1086,Laptop,Electronics,3,74587.32,223761.96,Debit Card,2025-03-17,Returned
+50880,1033,Coffee Maker,Home,4,9449.84,37799.36,Debit Card,2026-06-24,Delivered
+50881,1037,Monitor,Electronics,1,13711.86,13711.86,Credit Card,2025-05-07,Delivered
+50882,1087,Office Chair,Furniture,4,13784.9,55139.6,Net Banking,2025-11-06,Cancelled
+50883,1045,Coffee Maker,Home,4,9804.74,39218.96,Net Banking,2026-03-15,Returned
+50884,1085,Mouse,Accessories,1,1528.54,1528.54,UPI,2026-05-04,Delivered
+50885,1087,Mouse,Accessories,3,1187.36,3562.08,Debit Card,2025-12-18,Cancelled
+50886,1079,Running Shoes,Fashion,3,4448.98,13346.94,UPI,2025-11-09,Returned
+50887,1082,Backpack,Accessories,3,2996.0,8988.0,Debit Card,2025-10-30,Delivered
+50888,1084,Table Lamp,Home,3,3296.68,9890.04,Debit Card,2025-12-13,Delivered
+50889,1021,Keyboard,Accessories,1,2532.09,2532.09,Credit Card,2025-10-23,Shipped
+50890,1092,Running Shoes,Fashion,1,2932.27,2932.27,UPI,2025-01-28,Delivered
+50891,1041,Smartphone,Electronics,1,32547.48,32547.48,Debit Card,2025-09-06,Shipped
+50892,1014,Mouse,Accessories,2,462.26,924.52,Credit Card,2025-06-17,Delivered
+50893,1024,Backpack,Accessories,1,2650.77,2650.77,Debit Card,2025-05-26,Delivered
+50894,1035,Monitor,Electronics,1,12259.76,12259.76,UPI,2025-06-02,Shipped
+50895,1098,Laptop,Electronics,4,49867.81,199471.24,UPI,2025-08-09,Delivered
+50896,1054,Backpack,Accessories,3,3140.76,9422.28,Debit Card,2025-02-11,Delivered
+50897,1055,Laptop,Electronics,2,52246.87,104493.74,Credit Card,2026-06-30,Delivered
+50898,1070,Running Shoes,Fashion,1,6115.94,6115.94,UPI,2025-02-17,Delivered
+50899,1030,Backpack,Accessories,3,1601.4,4804.2,UPI,2025-10-01,Delivered
+50900,1095,Office Chair,Furniture,4,9684.88,38739.52,Net Banking,2025-07-10,Delivered
+50901,1081,Running Shoes,Fashion,1,4054.74,4054.74,Debit Card,2025-03-10,Returned
+50902,1002,Keyboard,Accessories,4,4192.41,16769.64,Cash on Delivery,2026-06-09,Delivered
+50903,1095,Table Lamp,Home,1,3104.5,3104.5,UPI,2025-01-08,Delivered
+50904,1094,Jeans,Fashion,2,1359.93,2719.86,Cash on Delivery,2025-09-24,Delivered
+50905,1036,Keyboard,Accessories,1,903.4,903.4,Cash on Delivery,2025-09-25,Shipped
+50906,1052,Table Lamp,Home,4,3225.73,12902.92,Credit Card,2026-07-26,Returned
+50907,1085,Backpack,Accessories,4,3813.14,15252.56,Cash on Delivery,2025-07-25,Delivered
+50908,1089,Headphones,Electronics,1,6407.84,6407.84,Credit Card,2025-07-02,Delivered
+50909,1092,Running Shoes,Fashion,2,8756.47,17512.94,Credit Card,2026-01-10,Cancelled
+50910,1075,Headphones,Electronics,2,2201.14,4402.28,Net Banking,2025-07-11,Shipped
+50911,1083,Headphones,Electronics,2,3956.21,7912.42,UPI,2025-11-20,Returned
+50912,1055,Desk,Furniture,4,23042.91,92171.64,UPI,2026-04-12,Cancelled
+50913,1049,Monitor,Electronics,3,9664.81,28994.43,UPI,2025-05-24,Returned
+50914,1082,Mouse,Accessories,4,2512.22,10048.88,Net Banking,2026-08-15,Delivered
+50915,1045,Headphones,Electronics,2,4912.28,9824.56,Cash on Delivery,2025-01-07,Delivered
+50916,1006,Table Lamp,Home,2,1675.84,3351.68,Credit Card,2025-08-03,Cancelled
+50917,1081,Running Shoes,Fashion,2,4321.32,8642.64,Debit Card,2026-06-22,Returned
+50918,1003,Headphones,Electronics,2,3322.04,6644.08,Debit Card,2025-06-15,Shipped
+50919,1021,T-Shirt,Fashion,3,2404.77,7214.31,Debit Card,2025-11-24,Delivered
+50920,1059,Monitor,Electronics,4,17135.91,68543.64,UPI,2025-07-10,Cancelled
+50921,1007,Monitor,Electronics,3,31699.12,95097.36,Debit Card,2025-01-01,Delivered
+50922,1041,Mouse,Accessories,3,1396.83,4190.49,Debit Card,2025-10-25,Shipped
+50923,1037,Laptop,Electronics,2,61071.73,122143.46,UPI,2026-01-18,Delivered
+50924,1096,Headphones,Electronics,4,6835.22,27340.88,Debit Card,2026-01-07,Returned
+50925,1063,T-Shirt,Fashion,3,2177.71,6533.13,Cash on Delivery,2025-11-13,Returned
+50926,1023,Jeans,Fashion,1,2051.88,2051.88,Credit Card,2025-02-19,Cancelled
+50927,1070,T-Shirt,Fashion,2,594.39,1188.78,Debit Card,2025-09-28,Delivered
+50928,1003,Monitor,Electronics,3,16034.54,48103.62,Cash on Delivery,2025-12-27,Delivered
+50929,1032,Office Chair,Furniture,4,10110.58,40442.32,Net Banking,2025-01-01,Delivered
+50930,1093,T-Shirt,Fashion,3,1214.38,3643.14,Credit Card,2025-03-23,Cancelled
+50931,1064,Backpack,Accessories,1,1116.44,1116.44,Cash on Delivery,2026-07-04,Cancelled
+50932,1081,Office Chair,Furniture,3,8249.65,24748.95,Cash on Delivery,2026-08-24,Cancelled
+50933,1022,Running Shoes,Fashion,4,4955.35,19821.4,Debit Card,2026-04-30,Delivered
+50934,1017,Table Lamp,Home,4,2140.7,8562.8,Credit Card,2026-05-18,Delivered
+50935,1094,Monitor,Electronics,1,26180.76,26180.76,UPI,2025-11-21,Shipped
+50936,1037,Monitor,Electronics,4,17970.44,71881.76,UPI,2026-03-02,Delivered
+50937,1086,Smartphone,Electronics,1,45460.29,45460.29,Credit Card,2026-03-15,Shipped
+50938,1018,Mouse,Accessories,3,575.77,1727.31,UPI,2025-04-07,Delivered
+50939,1082,Office Chair,Furniture,4,11661.11,46644.44,Debit Card,2025-02-28,Delivered
+50940,1100,Coffee Maker,Home,2,3550.73,7101.46,Net Banking,2026-08-05,Cancelled
+50941,1088,Smartphone,Electronics,3,56264.34,168793.02,UPI,2025-01-13,Delivered
+50942,1043,Mouse,Accessories,1,2321.64,2321.64,Cash on Delivery,2026-03-02,Delivered
+50943,1030,Jeans,Fashion,2,3624.9,7249.8,Credit Card,2025-03-12,Delivered
+50944,1086,Table Lamp,Home,3,3214.62,9643.86,Credit Card,2025-07-12,Delivered
+50945,1029,T-Shirt,Fashion,1,2215.06,2215.06,Cash on Delivery,2026-04-19,Cancelled
+50946,1042,Desk,Furniture,3,12191.75,36575.25,Debit Card,2025-07-17,Delivered
+50947,1065,Office Chair,Furniture,3,5007.77,15023.31,UPI,2026-01-04,Returned
+50948,1057,Backpack,Accessories,3,2498.54,7495.62,Net Banking,2026-07-28,Cancelled
+50949,1029,Running Shoes,Fashion,2,8842.47,17684.94,Debit Card,2026-03-01,Delivered
+50950,1018,Smartphone,Electronics,1,67437.16,67437.16,Credit Card,2025-09-30,Cancelled
+50951,1056,T-Shirt,Fashion,3,828.57,2485.71,Debit Card,2026-07-22,Returned
+50952,1035,Headphones,Electronics,1,1679.64,1679.64,Credit Card,2026-04-22,Cancelled
+50953,1091,Keyboard,Accessories,1,4812.88,4812.88,Cash on Delivery,2026-06-12,Delivered
+50954,1026,Water Bottle,Home,1,1024.28,1024.28,Net Banking,2025-03-06,Delivered
+50955,1059,Table Lamp,Home,4,3709.45,14837.8,Net Banking,2025-11-23,Delivered
+50956,1068,Jeans,Fashion,2,2255.75,4511.5,Debit Card,2025-01-02,Delivered
+50957,1012,Smartphone,Electronics,1,39596.06,39596.06,UPI,2025-12-06,Delivered
+50958,1070,Mouse,Accessories,3,1822.32,5466.96,Debit Card,2025-02-14,Delivered
+50959,1007,Backpack,Accessories,3,1958.96,5876.88,Net Banking,2025-01-27,Delivered
+50960,1055,Laptop,Electronics,3,72983.86,218951.58,Debit Card,2025-07-04,Shipped
+50961,1097,Running Shoes,Fashion,2,7344.61,14689.22,Cash on Delivery,2025-06-03,Delivered
+50962,1034,Jeans,Fashion,3,1737.65,5212.95,UPI,2025-06-18,Delivered
+50963,1032,Backpack,Accessories,3,4106.14,12318.42,Credit Card,2025-02-12,Returned
+50964,1052,Desk,Furniture,1,16675.41,16675.41,Credit Card,2026-08-06,Delivered
+50965,1060,Smartphone,Electronics,2,59791.12,119582.24,UPI,2025-04-07,Delivered
+50966,1051,Headphones,Electronics,3,5672.8,17018.4,Net Banking,2025-02-25,Delivered
+50967,1081,Jeans,Fashion,2,3507.19,7014.38,Debit Card,2026-05-13,Delivered
+50968,1071,Smartphone,Electronics,3,21042.47,63127.41,Cash on Delivery,2025-09-28,Delivered
+50969,1063,Backpack,Accessories,4,1088.72,4354.88,Credit Card,2025-03-15,Delivered
+50970,1038,Keyboard,Accessories,4,1811.38,7245.52,UPI,2026-03-05,Cancelled
+50971,1057,Office Chair,Furniture,1,6166.87,6166.87,Credit Card,2025-12-18,Delivered
+50972,1068,Coffee Maker,Home,2,10217.1,20434.2,UPI,2025-09-30,Shipped
+50973,1058,Smartphone,Electronics,4,46986.03,187944.12,Debit Card,2025-12-07,Shipped
+50974,1074,Smartphone,Electronics,3,30530.24,91590.72,Cash on Delivery,2025-10-01,Delivered
+50975,1017,Monitor,Electronics,1,24583.7,24583.7,UPI,2025-01-14,Delivered
+50976,1020,Running Shoes,Fashion,3,2026.86,6080.58,Debit Card,2025-09-22,Shipped
+50977,1019,Jeans,Fashion,3,2502.1,7506.3,Credit Card,2026-06-22,Delivered
+50978,1049,Table Lamp,Home,2,1637.6,3275.2,Credit Card,2026-04-25,Shipped
+50979,1019,Headphones,Electronics,2,7437.1,14874.2,UPI,2026-08-11,Delivered
+50980,1049,Office Chair,Furniture,3,14426.45,43279.35,Credit Card,2025-12-21,Delivered
+50981,1046,Monitor,Electronics,1,24635.99,24635.99,Net Banking,2026-02-12,Shipped
+50982,1025,Mouse,Accessories,2,1559.48,3118.96,Credit Card,2025-04-28,Delivered
+50983,1006,Office Chair,Furniture,1,11034.65,11034.65,Net Banking,2025-12-02,Returned
+50984,1090,Desk,Furniture,2,16368.22,32736.44,UPI,2026-06-22,Delivered
+50985,1052,Running Shoes,Fashion,4,3512.22,14048.88,Net Banking,2026-04-04,Delivered
+50986,1012,T-Shirt,Fashion,4,1450.2,5800.8,Credit Card,2026-07-10,Delivered
+50987,1098,Running Shoes,Fashion,2,3765.21,7530.42,Net Banking,2025-10-09,Shipped
+50988,1066,Coffee Maker,Home,4,2508.96,10035.84,Credit Card,2026-04-02,Returned
+50989,1048,Jeans,Fashion,1,3057.27,3057.27,Net Banking,2025-05-10,Delivered
+50990,1055,Monitor,Electronics,3,33406.58,100219.74,Net Banking,2025-11-18,Delivered
+50991,1044,T-Shirt,Fashion,4,1118.83,4475.32,Cash on Delivery,2025-08-26,Cancelled
+50992,1018,Running Shoes,Fashion,4,3248.91,12995.64,Net Banking,2025-06-29,Delivered
+50993,1071,Mouse,Accessories,2,1247.14,2494.28,Debit Card,2025-03-25,Delivered
+50994,1007,Keyboard,Accessories,3,1153.91,3461.73,Debit Card,2025-03-10,Delivered
+50995,1069,Jeans,Fashion,4,3517.49,14069.96,Cash on Delivery,2025-10-20,Delivered
+50996,1017,Jeans,Fashion,3,1750.16,5250.48,Credit Card,2026-02-09,Shipped
+50997,1088,Desk,Furniture,3,19382.37,58147.11,Cash on Delivery,2026-07-01,Returned
+50998,1012,T-Shirt,Fashion,3,1938.49,5815.47,Net Banking,2025-04-29,Cancelled
+50999,1017,Smartphone,Electronics,1,60190.29,60190.29,UPI,2026-05-31,Delivered
+51000,1086,Running Shoes,Fashion,2,4658.16,9316.32,UPI,2025-05-12,Delivered
